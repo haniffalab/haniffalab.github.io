@@ -2,8 +2,12 @@
 	width:50px;
 }
 body {
-    font-size: 1.3rem;
+	font-size: 1.3rem;
 }
+ul.navbar-nav {
+	font-family: Poppins,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
 .footer-cta {
 	position: relative;
 	background: url(../../assets/img/welcome-cover.jpg) no-repeat center center fixed;

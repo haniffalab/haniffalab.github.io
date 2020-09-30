@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<!-- Our Services Section -->
-<div id="our-services" class="our-services section py-4">
+<!-- Aims Section -->
+<div class="aims section py-4">
   <h3 class="section-title text-center my-5">Aims</h3>
   <!-- Page Content -->
   <div class="page-content">
@@ -57,9 +57,9 @@ layout: default
     </div>
   </div>
 </div>  
-<!-- / Our Services Section -->
-<!-- Our Blog Section -->
-<div class="blog section section-invert py-4">
+<!-- / Aims Section -->
+<!-- Research Section -->
+<div class="research section section-invert py-4">
   <h3 class="section-title text-center m-5">Research Interests</h3>
   <div class="container">
     <div class="py-4">
@@ -100,101 +100,24 @@ layout: default
     </div>
   </div>
 </div>
-<!-- / Our Blog Section -->
+<!-- / Research Section -->
 <!-- Team Section -->
-<div class="testimonials section py-4">
+<div class="team section py-4">
   <h3 class="section-title text-center m-5">The Team</h3>
   <div class="container py-5">
-    <div class="example col-md-12 ml-auto mr-auto">
+    <div class="col-md-12 ml-auto mr-auto">
       <div class="row">
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #0067f4"></div>
-            <span class="title">Professor Muzlifah Haniffa</span>
-            <div class="hex-value">Wellcome Trust Senior Research Fellow</div>
+        {% for person in site.team %}
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <a class="team-card-link" href="{{ person.url }}">
+              <div class="team-card">
+                <img src="/assets/img/team/{{ person.thumbnail }}" />
+                <span class="name">{{ person.name }}</span>
+                <div class="position">{{ person.position }}</div>
+              </div>
+            </a>
           </div>
-        </div>
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #5A6169"></div>
-            <span class="title">Dr Gary Reynolds</span>
-            <div class="hex-value">Clinical lecturer</div>
-          </div>
-        </div>
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #00b8d8"></div>
-            <span class="title">Dr Rachel Botting</span>
-            <div class="hex-value">Research associate</div>
-          </div>
-        </div>
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #ffb400"></div>
-            <span class="title">Dr Dorin-Mirel Popescu</span>
-            <div class="hex-value">Research associate</div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #c4183c"></div>
-            <span class="title">Dr Peter Vegh</span>
-            <div class="hex-value">Research associate</div>
-          </div>
-        </div>
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #e9ecef"></div>
-            <span class="title">Dr Elizabeth Poyner</span>
-            <div class="hex-value">Associate clinical researcher</div>
-          </div>
-        </div>
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #212529"></div>
-            <span class="title">Emily Stephenson</span>
-            <div class="hex-value">Research assistant</div>
-          </div>
-        </div>
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #c4183c"></div>
-            <span class="title">Kile Green</span>
-            <div class="hex-value">Research assistant</div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #ffb400"></div>
-            <span class="title">David Dixon</span>
-            <div class="hex-value">PhD student</div>
-          </div>
-        </div>
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #00b8d8"></div>
-            <span class="title">James Fletcher</span>
-            <div class="hex-value">PhD student</div>
-          </div>
-        </div>
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #e9ecef"></div>
-            <span class="title">Dr Elizabeth Poyner</span>
-            <div class="hex-value">Associate clinical researcher</div>
-          </div>
-        </div>
-        <div class="color-wrapper col-lg-3 col-md-6 col-sm-6">
-          <div class="color">
-            <div class="swatch" style="background: #212529"></div>
-            <span class="title">Emily Stephenson</span>
-            <div class="hex-value">Research assistant</div>
-          </div>
-        </div>        
+        {% endfor %}          
       </div>
     </div>
   </div>

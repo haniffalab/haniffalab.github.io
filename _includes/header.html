@@ -1,10 +1,10 @@
 <!-- Welcome Section -->
-<div class="welcome d-flex justify-content-center flex-column">
+<div class="{% if page.layout == "home" %}welcome{% else %}top{% endif %} d-flex justify-content-center flex-column">
     <div class="container">
         <!-- Navigation -->
         <nav class="navbar navbar-expand-lg navbar-dark pt-4 px-0">
-            <a class="navbar-brand" href="#">
-                <img src="assets/img/logo.svg" class="mr-2" alt="Haniffa Lab">
+            <a class="navbar-brand" href="{{ "/" | relative_url }}">
+                <img src="/assets/img/logo.svg" class="mr-2" alt="Haniffa Lab">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -12,7 +12,7 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="{{ "/" | relative_url }}">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Aims</a>
@@ -24,7 +24,7 @@
                         <a class="nav-link" href="#">Research</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Publications</a>
+                        <a class="nav-link" href="{% link publications.markdown %}">Publications</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
@@ -42,16 +42,18 @@
         </nav>
         <!-- / Navigation -->
     </div> <!-- .container -->
+    {% if page.layout == "home" %}
     <!-- Inner Wrapper -->
     <div class="inner-wrapper mt-auto mb-auto container">
         <div class="row">
         <div class="col-md-7">
-            <h1 class="welcome-heading display-4 text-white">Haniffa Lab Research</h1>
-            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet felis eu odio suscipit pellentesque.</p>
+            <h1 class="welcome-heading display-4 text-white">Haniffa Lab</h1>
+            <p class="text-white">Diverse lab consisting of clinicians, researchers and students from across the globe. We value inclusion and innovation.</p>
             <a href="#our-services" class="btn btn-lg btn-outline-white btn-pill align-self-center">Learn More</a>
         </div>
         </div>
     </div>
     <!-- / Inner Wrapper -->
+    {% endif %}
 </div>
 <!-- / Welcome Section -->

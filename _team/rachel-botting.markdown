@@ -5,8 +5,8 @@ position: "Research Associate"
 thumbnail: "rachel-botting.jpg"
 image: "rachel-botting-full.jpg"
 ---
-Dr Rachel Anne Botting is a post doctoral Research Associate, who leads the yolk sac and embryonic skin research within the wider context of the Development Cell Atlas project. She also serves on the Faculty of Medical Sciences Post-Doctoral Committee at Newcastle University. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
 
-Rachel recevied her Bachelor of Biomedical Science degree with 1st class honors from the University of Technology in Sydney. During this time she spent a year researching gene therapy at the Children’s Medical Research Institute, and then completed a PhD with the University of Sydney at the Westmead Institute for Medical Research. She moved to the UK from Australia in 2007 and now guides the lab experiments and biological interpretation for junior researchers and students within the lab. She has first and second authorship in Nature, Science, Nature Comms and the Journal of Leukocyte Biology.
+Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
 
-Rachel has a committment to inclusion and innvoation.
+Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.

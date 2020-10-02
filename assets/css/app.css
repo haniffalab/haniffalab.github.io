@@ -100,3 +100,18 @@ a.team-card-link:hover {
     color: #8f99ac;
     font-size: 16px;
     text-transform: uppercase;
+}
+.publication .title {
+}
+.publication .authors {
+    color: #8f99ac;
+    font-size: 16px;
+    margin: 0;
+}
+.publication .journal {
+    font-family: "Roboto Mono", Menlo, Monaco,Consolas, "Liberation Mono", "Courier New", monospace;
+    color: #333333;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0;
+}

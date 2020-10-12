@@ -4,7 +4,9 @@
 body {
 	font-size: 1.3rem;
 }
-ul.navbar-nav {
+ul.navbar-nav,
+.welcome-heading,
+.text-white  {
 	font-family: Poppins,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 .footer-cta {
@@ -40,7 +42,7 @@ ul.navbar-nav {
     border-radius: 50%;
     margin: 0 auto 15px auto;
     width: 210px;
-    height: 210px;
+    max-width:100%;
 }
 .team-card .name {
     display: inline-block;
@@ -61,6 +63,7 @@ ul.navbar-nav {
 }
 #introduction .lead {
 	font-size: 160%;
+	line-height: 140%;
 }
 
 .shards-landing-page--1 .top {
@@ -112,4 +115,98 @@ a.team-card-link:hover {
     font-size: 16px;
     text-transform: uppercase;
     margin: 0;
+}
+
+
+
+
+
+.shards-landing-page--1 .app-screenshot {
+    background: url("../../assets/img/app-cover.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom left;    
+    background-size: cover;
+  }
+  .shards-landing-page--1 .section-title.underline--left:after {
+    left: 0;
+    margin-left: 0;
+}
+  .shards-landing-page--1 .app-screenshot:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #e9ecef;
+    opacity: .6;
+  }
+  
+  .shards-landing-page--1 .app-screenshot img {
+    max-width: 500px;
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 100%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    box-shadow: 0 13px 25px rgba(0, 0, 0, 0.05), 0 60px 100px rgba(192, 192, 192, 0.5);
+  }
+  
+  @media (max-width: 991.98px) {
+    .shards-landing-page--1 .app-screenshot img {
+      display: table;
+      position: static;
+      -webkit-transform: translate(0);
+              transform: translate(0);
+      margin: 0 auto;
+    }
+  }
+  
+  .shards-landing-page--1 .feature .icon {
+    border-radius: 50%;
+    min-width: 65px;
+    height: 65px;
+    line-height: 65px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(33, 37, 41, 0.1), 0 7px 14px rgba(33, 37, 41, 0.1);
+    font-size: 27px;
+  }
+  
+  @media (max-width: 767.98px) {
+    .shards-landing-page--1 .feature .icon {
+      margin-right: 1.5rem !important;
+    }
+  }
+
+
+.icons-example .icons-example-wrapper {
+    text-decoration: none;
+    transition: 0.5s;
+}
+.icons-example .icons-example-wrapper.c1 {
+    background: #1c1e21;
+}
+.icons-example .icons-example-wrapper.c2 {
+    background: #212529;
+}
+.icons-example .icons-example-wrapper.c3 {
+    background: #1c1e21;
+}
+.icons-example .icons-example-wrapper.c4 {
+    background: #212529;
+}
+.icons-example .icons-example-wrapper.c5 {
+    background: #1c1e21;
+}
+.icons-example .icons-example-wrapper.c6 {
+    background: #212529;
+}
+.icons-example .icons-example-wrapper:hover {
+    background: #dddddd;
+}
+.icons-example .icons-example-wrapper:hover h2 {
+    color: #212529!important;
+    transition: 0.5s;
 }

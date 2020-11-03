@@ -2,8 +2,8 @@
 layout: team
 name:  "Antony Rose"
 position: "PhD student"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+thumbnail: "antony-rose.jpg"
+image: "antony-rose-full.jpg"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
 

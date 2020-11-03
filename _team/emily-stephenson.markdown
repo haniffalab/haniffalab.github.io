@@ -2,8 +2,8 @@
 layout: team
 name:  "Emily Stephenson"
 position: "PhD candidate and Research Assistant"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+thumbnail: "emily-stephenson.png"
+image: "emily-stephenson-full.png"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
 

@@ -1,9 +1,6 @@
 ---
 layout: page
-name:  "Antony Rose"
-position: "PhD Student"
-thumbnail: "antony-rose.jpg"
-image: "antony-rose-full.jpg"
+title:  "Human Cell Atlas"
 ---
 The Human Cell Atlas (HCA) is a global initiative that aims to create a reference atlas of the human body by mapping every cell. Having a reference atlas of the healthy human body will allow us to understand what has changed in disease and how we can reverse or ameliorate these pathological processes.  The Haniffa Lab is involved in the Human Developmental and the Skin Cell Atlas.  Muzz is one of the three coordinators of the Developmental Biological Network.
 

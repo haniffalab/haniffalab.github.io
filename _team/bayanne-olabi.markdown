@@ -1,12 +1,12 @@
 ---
 layout: team
 name:  "Bayanne Olabi"
-position: "Clinical Research Training Fellow"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+position: "Clinical Research Training Fellow (Wellcome Trust 4Ward North), Dermatology Registrar"
+thumbnail: "bayanne-olabi.png"
+image: "bayanne-olabi-full.png"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Dr. Bayanne Olabi is a Wellcome Clinical Research Training Fellow who is using spatial genomic technologies to investigate inflammatory skin diseases within the wider context of the Human Cell Atlas initiative.
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
+She is a clinician (Member of the Royal College of Physicians) and Dermatology Registrar. During her Undergraduate medical studies she completed a Bachelor of Medical Sciences degree in Physiology, receiving first class Honours from the University of Edinburgh. She was recently awarded a MSc in Medical Education with Merit at the University of Manchester.
 
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+In recent years, Bayanne has volunteered on several medical missions to Lebanon and Jordan to support Syrian refugees who have been displaced there. In her spare time, she enjoys swimming, hiking (especially having grown up close to the Lake District) and baking.

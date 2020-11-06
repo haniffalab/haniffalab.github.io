@@ -1,12 +1,10 @@
 ---
 layout: team
 name:  "Daniel Maunder"
-position: "NIHR BRC funded PhD student"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+position: "NIHR BRC funded PhD Student"
+thumbnail: "daniel-maunder.png"
+image: "daniel-maunder-full.png"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Dan is currently nearing completion of his PhD investigating the role of Langhans-type giant cells in the aetiology of the most common form of vasculitis in adults; giant-cell arteritis (GCA). At present, treatment for GCA most often comprises high-dose steroids; which have considerable side effects and may be unsuitable for some patients. Therefore an improved understanding of mechanisms of disease which may lead the way to novel therapeutics would be most welcome.
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
-
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+Dan received his BSc in Neuroscience at the University of Nottingham. This was following by an attachment in the laboratory of Professor Rajat Singh, which inspired Dan to undertake an MRes at Newcastle University. During this time Dan developed an interest in immunology and aging, which he now combines in his NIHR-BRC funded PhD. Dan is a co-author on publications in Nature and has presented his work in both regional and national meetings; including, the North East postgraduate conference and British Society of Rheumatology.

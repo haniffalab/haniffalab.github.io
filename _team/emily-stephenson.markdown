@@ -1,12 +1,14 @@
 ---
 layout: team
 name:  "Emily Stephenson"
-position: "PhD candidate and Research Assistant"
+position: "PhD Candidate and Research Assistant"
 thumbnail: "emily-stephenson.png"
 image: "emily-stephenson-full.png"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Emily Stephenson is Research Assistant who is also working towards her PhD. She plays an integral role for all ongoing projects in the Haniffa lab, using her specialty in single cell multi-omic technologies to generate single cell libraries for sequencing. She also works as a point of contact and collaborator with various other projects tied to the Haniffa lab all across the country. 
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
+Her primary interest is in studying the developing human immune system during prenatal life as well as infection and inflammation. She does this by applying her skills in molecular biology and genomics that she honed by achieving her Bachelor’s Degree in Biology at Newcastle University and previous laboratory roles. Emily acts as a major coordinator for many aspects of the laboratory area, and enjoys using her experience to train junior researchers in her field. She is always happy to volunteer time to assist her colleagues, whether that’s discussing research possibilities or even using her skills as a trained phlebotomist!
 
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+Outside of the lab, Emily is keen on running and keeping fit, and is a big Sunderland AFC fan! 
+
+

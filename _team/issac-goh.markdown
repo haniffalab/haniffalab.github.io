@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Issac Emmanuel Goh Kai’en"
-position: "Staff PhD Candidate"
+position: "Staff PhD Candidate in Bioinformatics"
 thumbnail: "staff-profile.png"
 image: "staff-profile.png"
 ---

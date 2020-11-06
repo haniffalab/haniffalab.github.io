@@ -1,6 +1,6 @@
 ---
 layout: team
-name:  "Justin Engelbert"
+name:  "Elaine Stephenson"
 position: "Project Administrator"
 thumbnail: "staff-profile.png"
 image: "staff-profile.png"

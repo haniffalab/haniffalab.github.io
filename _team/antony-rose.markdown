@@ -1,12 +1,12 @@
 ---
 layout: team
 name:  "Antony Rose"
-position: "PhD student"
+position: "PhD Student"
 thumbnail: "antony-rose.jpg"
 image: "antony-rose-full.jpg"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Antony is a PhD student, who investigates the hepatocellular carcinoma (HCC) tumour micro-environment using high-dimensional cytometry analysis. Through his work, he aims to improve patient stratification and inform new targets for therapy.
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
+Antony completed his undergraduate at Newcastle University, where he graduated with a first-class honours BSc in Biomedical Sciences. His current interest in research was informed during his undergraduate by his (1) experience on a summer placement at the Centre for Life under the supervision of Prof Sayer and Dr Molinari and (2) undergraduate project supervised by Dr Wilson, where he used Hyperion to investigate HCC liver tumour at single cell resolution.
 
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+During his undergraduate, Antony particularly enjoyed his voluntary work with SOLAR, an initiative which saw him communicate science with primary, secondary and college-level students in practical and exciting ways. Antony has also been a part-time life-guard since 2015. He enjoys swimming, hiking (particularly some recent trips to the Lake District and in Northumberland), cooking and playing pool with friends. He also spends quite a lot of down-time in the gym.

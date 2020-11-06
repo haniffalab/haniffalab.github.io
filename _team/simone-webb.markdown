@@ -1,9 +1,9 @@
 ---
 layout: team
 name:  "Simone Webb"
-position: "PhD Researcher"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+position: "PhD Researcher in Bioinformatics and Immunology"
+thumbnail: "simone-webb.jpg"
+image: "simone-webb-full.jpg"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
 

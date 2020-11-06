@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Laura Jardine"
-position: "NIHR Academic Clinical Lecturer"
+position: "NIHR Academic Clinical Lecturer in Haematology"
 thumbnail: "laura-jardine.png"
 image: "laura-jardine-full.png"
 ---

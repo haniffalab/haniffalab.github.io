@@ -1,0 +1,7 @@
+---
+layout: page
+title:  "COVID-19"
+---
+We are contributing our scientific expertise to aid in the fight against the COVID-19 pandemic. Having a good understanding of the human immune response to SARS-CoV-2 and how the body’s own cells react to the virus is crucial in the development of better diagnostics, treatments and vaccines against the disease. We are using “multi-omics” technologies to profile the blood of patients infected with SARS-CoV-2. By simultaneously characterising the RNA and protein of individual leukocytes, we hope to provide a highly detailed reference of the cellular and molecular responses present during infection. We also hope to identify specific cells that are capable of recognising the virus and determine if there are any which are cross-reactive with other pathogens. 
+
+Understandably, this project is a huge undertaking so we are tackling this in a large team with collaborators in Newcastle, across the UK and worldwide. We are involved in the UK Coronavirus Immunology Consortium (UK-CIC) https://www.uk-cic.org/ as well as the COVID-19 arm of the Human Cell Atlas https://www.humancellatlas.org/covid-19/. Both initiatives have similar aims with an overall goal of delivering long-term benefits to public health.

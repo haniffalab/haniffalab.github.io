@@ -5,8 +5,6 @@ position: "NUAcT Fellow"
 thumbnail: "staff-profile.png"
 image: "staff-profile.png"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Dr Caroline Wilson is a Newcastle University Research Fellow investigating the spatial tumour immune microenvironment for biomarker prediction using comprehensive omics techniques. She is also partaking in projects generating in vivo liver cancer models to understand if the immune system of tumours can be manipulated, preventing tumour development and spread. Within the lab, Caroline also supervises PhD students with their projects.
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
-
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+Caroline achieved a 1st Class Honours degree in Medical Microbiology and Immunology from Newcastle University and continued on to study a PhD in musculoskeletal research, where she researched the processing and presentation of rheumatoid arthritis joint antigen, aggrecan, by B-cells and mononuclear phagocytes. As a post-doc in the Newcastle Fibrosis Research Group, Caroline has explored the role of NF-KB subunit p50 as an inflammatory regulator of cancer and studied the effects of neutrophils in liver cancer. 

@@ -2,8 +2,8 @@
 layout: team
 name:  "Mohi Miah"
 position: "Laboratory Technician"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+thumbnail: "mohi-miah.jpg"
+image: "mohi-miah-full.jpg"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
 

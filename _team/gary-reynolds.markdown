@@ -1,7 +1,7 @@
 ---
 layout: team
-name:  "Justin Engelbert"
-position: "Research Technician"
+name:  "Gary Reynolds"
+position: "Wellcome Trust Clinical Career Development Fellow and Honorary Consultant Rheumatologist"
 thumbnail: "staff-profile.png"
 image: "staff-profile.png"
 ---

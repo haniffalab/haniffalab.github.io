@@ -5,8 +5,8 @@ position: "PhD Researcher in Bioinformatics and Immunology"
 thumbnail: "simone-webb.jpg"
 image: "simone-webb-full.jpg"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Simone Webb is a PhD researcher in Bioinformatics and Immunology, working on analysing single cell transcriptomic data from human fetal bone marrow as part of the Human Developmental Cell Atlas. 
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
+Simone received her 1st class master’s degree in Biological Sciences from the University of College London. She has performed computational analysis of scRNA-seq data which has been published in the Haniffa Lab’s 2019 Nature paper on fetal liver haematopoiesis. Simone is on the board of trustees for the National Rheumatoid Arthritis Society in the UK and also works on equity in UK higher education through the African-Caribbean Researchers Collective. Additionally, she has helped a prospective university student through Nuffield’s Future Researcher programme.
 
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+Living by the coast, Simone enjoys walks around Northumbria exploring old castles, loves reading novels- particularly dystopic end-of-the-world types and is always looking for vinyl’s to add to her ever growing collection.

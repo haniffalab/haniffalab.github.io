@@ -5,8 +5,8 @@ position: "Action Medical Research Clinical Fellow"
 thumbnail: "michael-mather.jpg"
 image: "michael-mather-full.jpg"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Michael is a Clinical Fellow in Otolaryngology, undertaking his PhD with the Haniffa Lab funded by Action Medical Research. Michael’s research focus is the immunology of ear infections. Most children will have at least one ear infection in their first few years – typically at very young ages. In some cases, infections are recurrent and can result in hearing loss due to fluid build-up behind the ear drum, which can cause problems with development and learning so surgery is commonly necessary.
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
+Michael aims to improve understanding of this fluid build-up, about which little is known, by analysing the immune cells found in adenoids. Michael also plans to develop an in vitro model of ear infection to facilitate the study of this process, which may lead to the development of new treatments reducing the need for surgery.
 
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+Michael spends some of his spare time in his greenhouse, defying the North-East weather & growing his own fruit and veg.

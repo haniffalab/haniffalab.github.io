@@ -5,8 +5,8 @@ position: "Research Technician"
 thumbnail: "staff-profile.png"
 image: "staff-profile.png"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Justin Engelbert is a Research Technician in the Haniffa Lab. He is involved in a variety of HCA projects by coordinating the receipt of samples and processing fresh tissues for analysis. He assists with the single cell genomics work using his accomplished skills in molecular biology. Justin is also an important connection between the lab and our external collaborators. 
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
+Justin is originally from Seattle but completed his BSc degree in Biomedical Sciences at Newcastle University. Using his lab skills and knowledge learned from his degree, Justin is currently constructing a pipeline for spatial genomics, something which he is very interested in. He also hopes to expand on his cell culture experience by being involved with the development of organoid systems.
 
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+In his spare time, Justin is a big fan of cooking meals in the kitchen and baking treats for his friends and family (much to the lab’s delight!). He is particularly proud of his home made sourdough bread! 

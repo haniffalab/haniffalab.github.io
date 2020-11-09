@@ -2,8 +2,8 @@
 layout: team
 name:  "Elizabeth Poyner"
 position: "Wellcome 4ward North Clinical Research Training Fellow"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+thumbnail: "elizabeth-poyner.jpg"
+image: "elizabeth-poyner-full.jpg"
 ---
 Dr. Elizabeth Poyner is a Wellcome 4ward North Clinical Research Training Fellow and dermatology trainee, who leads the studies on cutaneous T cell lymphoma and inflammatory skin disease (atopic eczema and psoriasis).
 

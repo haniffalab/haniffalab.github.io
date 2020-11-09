@@ -2,8 +2,8 @@
 layout: team
 name:  "Issac Emmanuel Goh Kai’en"
 position: "Staff PhD Candidate in Bioinformatics"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+thumbnail: "issac-goh.jpg"
+image: "issac-goh-full.jpg"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
 

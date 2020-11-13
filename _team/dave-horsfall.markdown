@@ -2,7 +2,7 @@
 layout: team
 name:  "Dave Horsfall"
 position: "Research Software Engineer"
-thumbnail: "dave-horsfall.jpg"
+thumbnail: "dave-horsfall-full.jpg"
 image: "dave-horsfall.jpg"
 ---
 Dave Horsfall is Research Software Engineer.  His current work focuses on the cell atlas web application, leveraging his professional software engineering expertise to make Haniffa lab research and data publically accessible.

@@ -2,8 +2,8 @@
 layout: team
 name:  "Elaine Stephenson"
 position: "Project Administrator"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+thumbnail: "elaine-stephenson.jpg"
+image: "elaine-stephenson-full.jpg"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
 

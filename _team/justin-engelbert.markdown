@@ -2,8 +2,8 @@
 layout: team
 name:  "Justin Engelbert"
 position: "Research Technician"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+thumbnail: "justin-engelbert-full.jpg"
+image: "justin-engelbert.jpg"
 ---
 Justin Engelbert is a Research Technician in the Haniffa Lab. He is involved in a variety of HCA projects by coordinating the receipt of samples and processing fresh tissues for analysis. He assists with the single cell genomics work using his accomplished skills in molecular biology. Justin is also an important connection between the lab and our external collaborators. 
 

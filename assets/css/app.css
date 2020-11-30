@@ -154,13 +154,24 @@ a.team-card-link:hover {
     box-shadow: 0 13px 25px rgba(0, 0, 0, 0.05), 0 60px 100px rgba(192, 192, 192, 0.5);
   }
   
+  @media (max-width: 1500px) {
+    .shards-landing-page--1 .app-screenshot img {
+        max-width: 400px;
+    }
+  }
+  @media (max-width: 1200px) {
+    .shards-landing-page--1 .app-screenshot img {
+        max-width: 300px;
+    }
+  }
   @media (max-width: 991.98px) {
     .shards-landing-page--1 .app-screenshot img {
-      display: table;
-      position: static;
-      -webkit-transform: translate(0);
-              transform: translate(0);
-      margin: 0 auto;
+        max-width: 75%;
+        display: table;
+        position: static;
+        -webkit-transform: translate(0);
+                transform: translate(0);
+        margin: 0 auto;
     }
   }
   
@@ -227,4 +238,11 @@ a.team-card-link:hover {
 }
 .partner-logo:hover {
     transform: scale(1.1);
+}
+
+#research a .card-body {
+    color: #5a6169;
+}
+#research a:hover {
+    text-decoration: none;
 }

@@ -218,3 +218,13 @@ a.team-card-link:hover {
 	z-index:1;
 	padding: 100px 0;
 }  
+
+.partner-logo {
+    height: 60px;
+    margin: 10px;
+    transition: transform .2s;
+    border-radius: 10px;
+}
+.partner-logo:hover {
+    transform: scale(1.1);
+}

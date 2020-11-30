@@ -210,3 +210,11 @@ a.team-card-link:hover {
     color: #212529!important;
     transition: 0.5s;
 }
+
+#aims {
+	position: relative;
+	background: url(../../assets/img/aims-cover.png) no-repeat center center fixed;
+	background-size: cover; 
+	z-index:1;
+	padding: 100px 0;
+}  

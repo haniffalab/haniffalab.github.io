@@ -203,17 +203,35 @@ layout: default
 <div id="team" class="section py-4">
   <h3 class="section-title text-center m-5">The Team</h3>
   <div class="container py-5">
-      <div class="row">
-        {% for person in site.team %}
-          <div class="col-lg-3 col-md-6 col-sm-6 d-flex">
-            <a class="team-card flex-fill team-card-link" href="{{ person.url }}">
-              <img src="/assets/img/team/{{ person.thumbnail }}" />
-              <span class="name">{{ person.name }}</span>
-              <div class="position">{{ person.position }}</div>
-            </a>
+    <div class="row">
+        <div class="col-lg-3 col-md-6 col-sm-6 d-flex">
+          <a class="team-card flex-fill team-card-link" href="{% link _team/muzz-haniffa.markdown %}">
+            <img src="/assets/img/team/muzz-haniffa.jpg" />
+          </a>
+        </div>
+        <div class="col-lg-9 col-md-6 col-sm-6 d-flex">
+          <div class="team-card flex-fill team-card-link text-left p-5">
+            <h4 class="mb-4">Professor Muzz Haniffa</h4>
+            <div class="position mb-4">Wellcome Trust Senior Research Fellow in Clinical Science, Lister Institute Prize Fellow, Professor of Dermatology and Immunology</div>
+            <p>
+              <a href="{% link _team/muzz-haniffa.markdown %}" class="btn btn-outline-dark btn-pill align-self-center">More...</a>
+              <a href="https://scholar.google.com/citations?user=x8oMWIAAAAAJ&hl=en" class="btn btn-outline-dark btn-pill align-self-center">Google Scholar</a>
+              <a href="https://www.sanger.ac.uk/external_person/haniffa-muzlifah/" class="btn btn-outline-dark btn-pill align-self-center">Sanger Institute</a>
+            </p>
           </div>
-        {% endfor %}          
-      </div>
+        </div>
+    </div>
+    <div class="row">
+      {% for person in site.team %}
+        <div class="col-lg-3 col-md-6 col-sm-6 d-flex">
+          <a class="team-card flex-fill team-card-link" href="{{ person.url }}">
+            <img src="/assets/img/team/{{ person.thumbnail }}" />
+            <span class="name">{{ person.name }}</span>
+            <div class="position">{{ person.position }}</div>
+          </a>
+        </div>
+      {% endfor %}          
+    </div>
   </div>
 </div>
 <!-- / Team Section -->

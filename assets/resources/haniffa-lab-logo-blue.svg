@@ -11,8 +11,8 @@
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 399.99999 399.68817"
-   height="199.84409mm"
+   viewBox="0 0 399.99999 400"
+   height="200mm"
    width="200mm"
    inkscape:export-filename="C:\Users\Newcastle University\OneDrive - Newcastle University\Documents\Assets\Branding\Cell Atlas\drawing v3.png"
    inkscape:export-xdpi="96"
@@ -31,9 +31,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="366.48308"
-     inkscape:cx="517.54153"
-     inkscape:zoom="0.70710678"
+     inkscape:cy="242.98042"
+     inkscape:cx="17.050748"
+     inkscape:zoom="2.8284271"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -43,51 +43,51 @@
     <sodipodi:guide
        id="guide28"
        orientation="0,-1"
-       position="-604.57292,687.23355" />
+       position="-604.57292,687.54537" />
     <sodipodi:guide
        id="guide32"
        orientation="0,-1"
-       position="-569.7991,657.94043" />
+       position="-569.7991,658.25225" />
     <sodipodi:guide
        id="guide36"
        orientation="0,-1"
-       position="-557.32588,628.64726" />
+       position="-557.32588,628.95908" />
     <sodipodi:guide
        id="guide40"
        orientation="0,-1"
-       position="-546.45906,599.63756" />
+       position="-546.45906,599.94938" />
     <sodipodi:guide
        id="guide44"
        orientation="0,-1"
-       position="-566.20832,569.96644" />
+       position="-566.20832,570.27827" />
     <sodipodi:guide
        id="guide46"
        orientation="0,-1"
-       position="-561.10564,540.86226" />
+       position="-561.10564,541.17409" />
     <sodipodi:guide
        id="guide48"
        orientation="0,-1"
-       position="-551.37276,511.28564" />
+       position="-551.37276,511.59747" />
     <sodipodi:guide
        id="guide50"
        orientation="1,0"
-       position="-601.5491,677.31171" />
+       position="-601.5491,677.62353" />
     <sodipodi:guide
        id="guide933"
        orientation="1,0"
-       position="-27.592261,365.29234" />
+       position="-27.592261,365.60417" />
     <sodipodi:guide
        id="guide935"
        orientation="0,-1"
-       position="46.869049,369.82805" />
+       position="46.869049,370.13988" />
     <sodipodi:guide
        id="guide952"
        orientation="1,0"
-       position="80.07395,390.61436" />
+       position="80.07395,390.92619" />
     <sodipodi:guide
        id="guide954"
        orientation="1,0"
-       position="120,259.68817" />
+       position="120,260" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,243 +106,243 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <rect
-       ry="20.000866"
+       ry="20.01647"
        y="0"
        x="0"
-       height="39.968819"
+       height="40"
        width="95.92514"
        id="rect52"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.1064"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.10683"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="20.000893"
+       ry="20.016497"
        y="0"
        x="111.91266"
-       height="39.968819"
+       height="40"
        width="47.96257"
        id="rect54"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12109"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12153"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="20.000893"
+       ry="20.016497"
        y="0"
        x="239.81294"
-       height="39.968819"
+       height="40"
        width="160.18706"
        id="rect56"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11397"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.1144"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.984409"
-       y="59.953228"
+       ry="20"
+       y="60"
        x="0"
-       height="39.968819"
+       height="40"
        width="51.959454"
        id="rect58"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.09608"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.09651"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.681574"
-       y="59.953228"
+       ry="19.696928"
+       y="60"
        x="67.947014"
-       height="39.968819"
+       height="40"
        width="91.928246"
        id="rect60"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11273"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11316"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.582666"
-       y="59.953228"
+       ry="19.597944"
+       y="60"
        x="239.81294"
-       height="39.968819"
+       height="40"
        width="59.953236"
        id="rect64"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11453"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11496"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.882404"
-       y="59.953228"
+       ry="19.897915"
+       y="60"
        x="315.75357"
-       height="39.968819"
+       height="40"
        width="83.934532"
        id="rect66"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12249"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12293"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.484758"
-       y="119.90646"
+       ry="19.49996"
+       y="120.00001"
        x="239.81294"
-       height="39.968819"
+       height="40"
        width="159.87518"
        id="rect68"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.10877"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.1092"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.291843"
-       y="119.90646"
+       ry="19.306894"
+       y="120.00001"
        x="99.922043"
-       height="39.968819"
+       height="40"
        width="123.90337"
        id="rect70"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.0884"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.08882"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.88241"
-       y="119.90646"
+       ry="19.897921"
+       y="120.00001"
        x="0"
-       height="39.968819"
+       height="40"
        width="83.934532"
        id="rect72"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11856"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.119"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.984409"
-       y="179.85968"
+       ry="20"
+       y="180"
        x="0"
-       height="39.968819"
+       height="40"
        width="183.85649"
        id="rect74"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.15548"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.15593"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.984409"
-       y="179.85968"
+       ry="20"
+       y="180"
        x="199.84409"
-       height="39.968819"
+       height="40"
        width="99.922043"
        id="rect76"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.14322"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.14367"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.984409"
-       y="179.85968"
+       ry="20"
+       y="180"
        x="315.75357"
-       height="39.968819"
+       height="40"
        width="83.934532"
        id="rect78"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.15675"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.1572"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.485603"
-       y="239.81293"
+       ry="18.500025"
+       y="240.00002"
        x="315.75357"
-       height="39.968819"
+       height="40"
        width="83.934532"
        id="rect80"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11122"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11165"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.578499"
-       y="239.81293"
+       ry="18.592993"
+       y="240.00002"
        x="239.81294"
-       height="39.968819"
+       height="40"
        width="59.953236"
        id="rect90"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.08461"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.08503"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.959591"
-       y="239.81293"
+       ry="18.974382"
+       y="240.00002"
        x="0"
-       height="39.968819"
+       height="40"
        width="113.91109"
        id="rect92"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11781"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11825"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.767111"
-       y="239.81293"
+       ry="18.781752"
+       y="240.00002"
        x="129.89862"
-       height="39.968819"
+       height="40"
        width="93.926712"
        id="rect94"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11005"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11048"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.767122"
-       y="299.76614"
+       ry="18.781763"
+       y="300"
        x="0"
-       height="39.968819"
+       height="40"
        width="91.928246"
        id="rect96"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12639"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12683"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.212433"
-       y="299.76614"
+       ry="18.226641"
+       y="300"
        x="107.91576"
-       height="39.968819"
+       height="40"
        width="51.959454"
        id="rect98"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.09617"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.0966"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.862877"
-       y="299.76614"
+       ry="18.877592"
+       y="300"
        x="239.81294"
-       height="39.968819"
+       height="40"
        width="87.931389"
        id="rect100"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11635"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11679"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.212433"
-       y="299.76614"
+       ry="18.226641"
+       y="300"
        x="343.73184"
-       height="39.968819"
+       height="40"
        width="55.956329"
        id="rect102"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12704"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12748"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="19.057318"
-       y="359.71936"
+       ry="19.072186"
+       y="360"
        x="239.81294"
-       height="39.968819"
+       height="40"
        width="59.953236"
        id="rect104"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11603"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11647"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.672323"
-       y="359.71936"
+       ry="18.68689"
+       y="360"
        x="315.75357"
-       height="39.968819"
+       height="40"
        width="83.934532"
        id="rect106"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12745"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.12789"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       ry="18.672323"
-       y="359.71936"
+       ry="18.68689"
+       y="360"
        x="0"
-       height="39.968819"
+       height="40"
        width="158.62804"
        id="rect108"
-       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11069"
+       style="fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11112"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>

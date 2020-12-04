@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Antony Rose"
+category: "team"
 position: "PhD Student"
 thumbnail: "antony-rose.jpg"
 image: "antony-rose-full.jpg"

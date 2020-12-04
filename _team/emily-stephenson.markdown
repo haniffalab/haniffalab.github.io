@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Emily Stephenson"
+category: "team"
 position: "PhD Candidate and Research Assistant"
 thumbnail: "emily-stephenson.png"
 image: "emily-stephenson-full.png"

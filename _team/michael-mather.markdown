@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Michael Mather"
+category: "team"
 position: "Action Medical Research Clinical Fellow"
 thumbnail: "michael-mather.jpg"
 image: "michael-mather-full.jpg"

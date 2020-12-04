@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Elaine Stephenson"
+category: "team"
 position: "Project Administrator"
 thumbnail: "elaine-stephenson.jpg"
 image: "elaine-stephenson-full.jpg"

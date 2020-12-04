@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Rachel Anne Botting"
+category: "team"
 position: "Post Doctoral Research Associate"
 thumbnail: "rachel-botting.jpg"
 image: "rachel-botting-full.jpg"

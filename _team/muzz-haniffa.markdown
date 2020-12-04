@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Muzz Haniffa"
+category: "senior"
 position: "Principle Investigator"
 thumbnail: "muzz-haniffa.jpg"
 image: "muzz-haniffa-full.jpg"

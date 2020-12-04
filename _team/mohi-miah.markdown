@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Mohi Miah"
+category: "team"
 position: "Laboratory Technician"
 thumbnail: "mohi-miah.jpg"
 image: "mohi-miah-full.jpg"

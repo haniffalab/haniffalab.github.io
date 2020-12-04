@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Jim McGrath"
+category: "team"
 position: "Research Software Engineer"
 thumbnail: "staff-profile.png"
 image: "staff-profile.png"

@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Simone Webb"
+category: "team"
 position: "PhD Researcher in Bioinformatics and Immunology"
 thumbnail: "simone-webb.jpg"
 image: "simone-webb-full.jpg"

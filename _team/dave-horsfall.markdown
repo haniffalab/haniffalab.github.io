@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Dave Horsfall"
+category: "team"
 position: "Research Software Engineer"
 thumbnail: "dave-horsfall.jpg"
 image: "dave-horsfall-full.jpg"

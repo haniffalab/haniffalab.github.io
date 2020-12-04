@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Caroline Wilson"
+category: "team"
 position: "NUAcT Fellow"
 thumbnail: "caroline-wilson.jpg"
 image: "caroline-wilson-full.jpg"

@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Elizabeth Poyner"
+category: "team"
 position: "Wellcome 4ward North Clinical Research Training Fellow"
 thumbnail: "elizabeth-poyner.jpg"
 image: "elizabeth-poyner-full.jpg"

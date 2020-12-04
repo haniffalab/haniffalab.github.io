@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Justin Engelbert"
+category: "team"
 position: "Research Technician"
 thumbnail: "justin-engelbert.jpg"
 image: "justin-engelbert-full.jpg"

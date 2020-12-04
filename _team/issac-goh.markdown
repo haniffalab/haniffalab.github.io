@@ -1,12 +1,14 @@
 ---
 layout: team
 name:  "Issac Emmanuel Goh Kai’en"
+category: "team"
 position: "Staff PhD Candidate in Bioinformatics"
 thumbnail: "issac-goh.jpg"
 image: "issac-goh-full.jpg"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Issac Emmanuel Goh Kai’en is a Staff PhD candidate in Bioinformatics and developmental biology, and visiting scientist at the Wellcome Sanger Institute. He uses his experience in biology and engineering to analyse single cell transcriptomic, proteomic, epigenetic and spatial data from key lymphoid organ systems in the developing human fetus. The study aims to reconcile multi-omic suspension and spatial data to better model in-silico, key events in the developing human fetus as part of the Developmental Cell Atlas. 
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
+Issac has a 1st Class BsC Biomedical sciences degree from Newcastle University, and an Advanced diploma in Bioengineering, Singapore Polytechnic. He was a co-author on the 2019 Developmental cell atlas paper “Decoding human fetal liver haematopoiesis” and the Human cell atlas paper “A cell atlas of human thymic development defines T cell repertoire formation” published in Nature and Science respectively. In addition to designing several analysis tools including for single cell regulatory pathway module prediction and enrichment, he has developed and maintained several data exploration tools hosted on the Haniffa Lab data portals.
 
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+Issac was also actively involved in both the 3Dcrowd and the GetPPE initiatives, utilising engineering and design skills to 3D print and manufacture PPE for front-line NHS staff during the height of the 2020 pandemic. The GetPPE initiative was nominated for the dynamo north east awards. 
+

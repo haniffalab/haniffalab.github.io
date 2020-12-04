@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Gary Reynolds"
+category: "team"
 position: "Wellcome Trust Clinical Career Development Fellow and Honorary Consultant Rheumatologist"
 thumbnail: "gary-reynolds.png"
 image: "gary-reynolds-full.png"

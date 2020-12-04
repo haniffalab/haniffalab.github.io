@@ -200,10 +200,12 @@ layout: default
 <div id="team" class="section py-4">
   <h3 class="section-title text-center m-5">The Team</h3>
   <div class="container py-5">
-    <div class="row">
+    {% assign team = site.team | where: "category", "senior" %}
+    {% for person in team %}
+      <div class="row">
         <div class="col-lg-3 col-md-6 col-sm-6 d-flex">
-          <a class="team-card flex-fill team-card-link" href="{% link _team/muzz-haniffa.markdown %}">
-            <img src="/assets/img/team/muzz-haniffa.jpg" />
+          <a class="team-card flex-fill team-card-link" href="{{ person.url }}">
+            <img src="/assets/img/team/{{ person.thumbnail }}" />
           </a>
         </div>
         <div class="col-lg-9 col-md-6 col-sm-6 d-flex">
@@ -217,9 +219,11 @@ layout: default
             </p>
           </div>
         </div>
-    </div>
+      </div>    
+    {% endfor %}   
     <div class="row">
-      {% for person in site.team %}
+      {% assign team = site.team | where: "category", "team" %}
+      {% for person in team %}
         <div class="col-lg-3 col-md-6 col-sm-6 d-flex">
           <a class="team-card flex-fill team-card-link" href="{{ person.url }}">
             <img src="/assets/img/team/{{ person.thumbnail }}" />

@@ -1,6 +1,7 @@
 ---
 layout: team
 name:  "Daniel Maunder"
+category: "team"
 position: "NIHR BRC funded PhD Student"
 thumbnail: "daniel-maunder.png"
 image: "daniel-maunder-full.png"

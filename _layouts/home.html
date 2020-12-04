@@ -5,54 +5,53 @@ layout: default
 <div id="aims" class="section py-4">
   <h3 class="section-title text-center my-5">Aims &amp; Values</h3>
   <!-- Content -->
-    <div class="content clearfix">
-      <div id="introduction" class="container mb-5">
-        <div class="col-lg-10 col-md-10 ml-auto mr-auto text-center">
-          <p class="lead">We apply disruptive omics technologies to study the human cells at single-cell resolution.
-            We leverage advanced computational methods to understand how the immune system develops and maintains health,
-            and study the consequences of infection, inflammation and disease.
-          </p>
-        </div>
+  <div class="content clearfix">
+    <div id="introduction" class="container mb-5">
+      <div class="col-lg-10 col-md-10 ml-auto mr-auto text-center">
+        <p class="lead">We apply disruptive omics technologies to study the human cells at single-cell resolution.
+          We leverage advanced computational methods to understand how the immune system develops and maintains health,
+          and study the consequences of infection, inflammation and disease.
+        </p>
       </div>
-      <!-- Features -->
-      <div class="features py-4 mb-4">
-        <div class="container">
-          <div class="row">
-            <div class="feature py-4 col-md-6 d-flex">
-              <div class="icon text-primary mr-3"><i class="fa fa-link"></i></div>
-              <div class="px-4">
-                <h5>Strength through diversity.</h5>
-                <p>We're a diverse lab consisting of clinicians, researchers and students from across the globe.</p>
-              </div>
-            </div>
-            <div class="feature py-4 col-md-6 d-flex">
-              <div class="icon text-primary mr-3"><i class="fa fa-search"></i></div>
-              <div class="px-4">
-                <h5>Reproducible science.</h5>
-                <p>Data and analysis code from our publications are publicly available through our website.</p>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="feature py-4 col-md-6 d-flex">
-              <div class="icon text-primary mr-3"><i class="fa fa-flask"></i></div>
-              <div class="px-4">
-                <h5>Advocating team science.</h5>
-                <p>We advocate team science within a supportive and collaborative research environment. </p>
-              </div>
-            </div>
-            <div class="feature py-4 col-md-6 d-flex">
-              <div class="icon text-primary mr-3"><i class="fa fa-users"></i></div>
-              <div class="px-4">
-                <h5>Inclusion and innovation.</h5>
-                <p>We work hard to create a fun, inclusive training environment for all researchers and students.</p>
-              </div>
-            </div>              
-          </div>
-        </div>
-      </div>
-      <!-- / Features -->
     </div>
+    <!-- Features -->
+    <div class="features py-4 mb-4">
+      <div class="container">
+        <div class="row">
+          <div class="feature py-4 col-md-6 d-flex">
+            <div class="icon text-primary mr-3"><i class="fa fa-link"></i></div>
+            <div class="px-4">
+              <h5>Strength through diversity.</h5>
+              <p>We're a diverse lab consisting of clinicians, researchers and students from across the globe.</p>
+            </div>
+          </div>
+          <div class="feature py-4 col-md-6 d-flex">
+            <div class="icon text-primary mr-3"><i class="fa fa-search"></i></div>
+            <div class="px-4">
+              <h5>Reproducible science.</h5>
+              <p>Data and analysis code from our publications are publicly available through our website.</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="feature py-4 col-md-6 d-flex">
+            <div class="icon text-primary mr-3"><i class="fa fa-flask"></i></div>
+            <div class="px-4">
+              <h5>Advocating team science.</h5>
+              <p>We advocate team science within a supportive and collaborative research environment. </p>
+            </div>
+          </div>
+          <div class="feature py-4 col-md-6 d-flex">
+            <div class="icon text-primary mr-3"><i class="fa fa-users"></i></div>
+            <div class="px-4">
+              <h5>Inclusion and innovation.</h5>
+              <p>We work hard to create a fun, inclusive training environment for all researchers and students.</p>
+            </div>
+          </div>              
+        </div>
+      </div>
+    </div>
+    <!-- / Features -->
   </div>
 </div>  
 <!-- / Aims Section -->
@@ -90,8 +89,8 @@ layout: default
               <p class="card-text">We are contributing our scientific expertise to aid in the fight against the COVID-19 pandemic. Having a good understanding...</p>
               <div class="btn btn-primary btn-pill">Read More</div>
             </div>
-          </div>
-        </a>
+          </a>
+        </div>
       </div>
       <!--
       <div class="row">
@@ -205,7 +204,7 @@ layout: default
       <div class="row">
         <div class="col-lg-3 col-md-6 col-sm-6 d-flex">
           <a class="team-card flex-fill team-card-link" href="{{ person.url }}">
-            <img src="/assets/img/team/{{ person.thumbnail }}" />
+            <img src="/assets/img/team/{{ person.thumbnail }}" alt="{{ person.name }}" />
           </a>
         </div>
         <div class="col-lg-9 col-md-6 col-sm-6 d-flex">
@@ -226,7 +225,7 @@ layout: default
       {% for person in team %}
         <div class="col-lg-3 col-md-6 col-sm-6 d-flex">
           <a class="team-card flex-fill team-card-link" href="{{ person.url }}">
-            <img src="/assets/img/team/{{ person.thumbnail }}" />
+            <img src="/assets/img/team/{{ person.thumbnail }}"  alt="{{ person.name }}" />
             <span class="name">{{ person.name }}</span>
             <div class="position">{{ person.position }}</div>
           </a>

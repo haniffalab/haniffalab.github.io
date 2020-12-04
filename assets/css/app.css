@@ -200,51 +200,6 @@
   opacity: 1;
 }
 
-.icons-example .icons-example-wrapper {
-  padding: 100px 0;
-}
-
-@media (max-width: 850px) {
-  .icons-example .icons-example-wrapper {
-    min-width: 100%;
-  }
-}
-
-.icons-example .icons-example-wrapper.material-icons {
-  background: #1C1E21;
-}
-
-.icons-example .icons-example-wrapper.font-awesome {
-  background: #212529;
-}
-
-@media (max-width: 1199px) {
-  .example-buttons .buttons-wrapper button {
-    margin: 0 5px;
-  }
-}
-
-@media (max-width: 850px) {
-  .example-buttons .buttons-wrapper {
-    -ms-flex-flow: column !important;
-        flex-flow: column !important;
-    -ms-flex-flow: wrap;
-        flex-flow: wrap;
-  }
-  .example-buttons .buttons-wrapper button {
-    min-width: 30%;
-    margin-bottom: 20px;
-    -ms-flex: 1;
-        flex: 1;
-  }
-}
-
-@media (max-width: 450px) {
-  .example-buttons .buttons-wrapper button {
-    min-width: 50%;
-  }
-}
-
 @media (max-width: 991.98px) {
   #cards .last {
     display: block !important;
@@ -586,35 +541,40 @@ a.team-card-link:hover {
     }
   }
 
-
-.icons-example .icons-example-wrapper {
-    text-decoration: none;
-    transition: 0.5s;
+.engagement-block .engagement-wrapper {
+  padding: 20px 0;
+  text-decoration: none;
 }
-.icons-example .icons-example-wrapper.c1 {
+@media (max-width: 850px) {
+  .engagement-block .engagement-wrapper {
+    min-width: 100%;
+  }
+}
+.engagement-block .engagement-wrapper.c1 {
     background: #1c1e21;
 }
-.icons-example .icons-example-wrapper.c2 {
+.engagement-block .engagement-wrapper.c2 {
     background: #212529;
 }
-.icons-example .icons-example-wrapper.c3 {
+.engagement-block .engagement-wrapper.c3 {
     background: #1c1e21;
 }
-.icons-example .icons-example-wrapper.c4 {
+.engagement-block .engagement-wrapper.c4 {
     background: #212529;
 }
-.icons-example .icons-example-wrapper.c5 {
+.engagement-block .engagement-wrapper.c5 {
     background: #1c1e21;
 }
-.icons-example .icons-example-wrapper.c6 {
+.engagement-block .engagement-wrapper.c6 {
     background: #212529;
 }
-.icons-example .icons-example-wrapper:hover {
-    background: #dddddd;
+.engagement-block .engagement-wrapper:hover {
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
 }
-.icons-example .icons-example-wrapper:hover h2 {
-    color: #212529!important;
-    transition: 0.5s;
+.engagement-block .engagement-wrapper:hover h2,
+.engagement-block .engagement-wrapper:hover h5 {
+  color: #fff!important;
 }
 
 #aims {

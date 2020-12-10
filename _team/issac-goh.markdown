@@ -12,3 +12,5 @@ Issac has a 1st Class BsC Biomedical sciences degree from Newcastle University, 
 
 Issac was also actively involved in both the 3Dcrowd and the GetPPE initiatives, utilising engineering and design skills to 3D print and manufacture PPE for front-line NHS staff during the height of the 2020 pandemic. The GetPPE initiative was awarded the dynamo north east award for "Project of the year".
 
+In his spare time, Issac enjoys desigining open-source, 3D printable hardware for laboratory use, Muay thai and scuba diving.  
+

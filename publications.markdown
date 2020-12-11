@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-<ul class="list-group">
+<ul class="list-group mb-5">
     {% for pub in site.data.publications %}
     <li class="list-group-item publication">
         <h5 class="title">
@@ -14,3 +14,4 @@ title: Publications
     </li>
     {% endfor %}
 </ul>
+<p>Publication list exported from <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28%28Haniffa+M%29+NOT+fish%29+NOT+ARG1%29+NOT+ppbp+NOT+Channa%29+NOT+Sri+Lanka+NOT+Polymer+NOT+ITPA+NOT+Coffin-Siris" target="_blank">National Library of Medicine</a>

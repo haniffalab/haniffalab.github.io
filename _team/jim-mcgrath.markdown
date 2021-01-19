@@ -3,8 +3,8 @@ layout: team
 name:  "Jim McGrath"
 category: "team"
 position: "Research Software Engineer"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+thumbnail: "jim-mcgrath-thumb.png"
+image: "jim-mcgrath-full.png"
 ---
 Jim McGrath is a Research Software Engineer (RSE), currently working on enhancements to the lab's web portals. Jim is focussed on helping the lab communicate their research effectively to the general public at the same time as providing useful tools to researchers and clinicians.
 

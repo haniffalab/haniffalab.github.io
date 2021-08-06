@@ -3,7 +3,7 @@ layout: team
 name:  "Muzz Haniffa"
 category: "senior"
 position: "Principle Investigator"
-thumbnail: "muzz-haniffa.jpg"
+thumbnail: "muzz-haniffa.webp"
 image: "muzz-haniffa-full.jpg"
 ---
 Professor Muzz Haniffa is the Principle Investigator of the group. Muzz is a Wellcome Senior Research Fellow, Professor of Dermatology and Immunology at Newcastle University and an Associate Faculty member at the Wellcome Sanger Institute. As well as these roles, Muzz is also the Biological Network Co-Coordinator for the Human Cell Atlas and  the Deputy lead PI for the Immunology and Inflammation theme at Newcastle University. 

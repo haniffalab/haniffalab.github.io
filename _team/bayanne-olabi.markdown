@@ -3,7 +3,7 @@ layout: team
 name:  "Bayanne Olabi"
 category: "team"
 position: "Clinical Research Training Fellow (Wellcome Trust 4Ward North), Dermatology Registrar"
-thumbnail: "bayanne-olabi.png"
+thumbnail: "bayanne-olabi.webp"
 image: "bayanne-olabi-full.png"
 ---
 Dr. Bayanne Olabi is a Wellcome Clinical Research Training Fellow who is using spatial genomic technologies to investigate inflammatory skin diseases within the wider context of the Human Cell Atlas initiative.

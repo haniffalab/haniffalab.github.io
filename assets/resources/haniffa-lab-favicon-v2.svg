@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="haniffa-lab-favicon.svg"
+   sodipodi:docname="haniffa-lab-favicon-v2.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
@@ -164,7 +164,7 @@
     <rect
        ry="41"
        y="318"
-       x="240.14583"
+       x="240"
        height="82"
        width="160"
        id="rect52-2-4-4"
@@ -174,21 +174,22 @@
     <rect
        ry="41"
        y="212"
-       x="184"
+       x="124"
        height="82"
-       width="216"
+       width="276"
        id="rect52-8-4"
-       style="display:inline;fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.16498"
+       style="display:inline;fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.31689"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\Projects\Jekyll\jekyll-haniffalab.com\assets\img\rect52-8-4.png" />
     <rect
        ry="41"
        y="212"
        x="-1.110223e-16"
        height="82"
-       width="160"
+       width="100"
        id="rect52-8-6-6"
-       style="display:inline;fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00266"
+       style="display:inline;fill:#007bff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.792677"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>

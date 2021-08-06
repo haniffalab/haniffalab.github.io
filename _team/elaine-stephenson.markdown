@@ -3,7 +3,7 @@ layout: team
 name:  "Elaine Stephenson"
 category: "team"
 position: "Project Administrator"
-thumbnail: "elaine-stephenson.jpg"
+thumbnail: "elaine-stephenson.webp"
 image: "elaine-stephenson-full.jpg"
 ---
 

@@ -3,7 +3,7 @@ layout: team
 name:  "Emily Stephenson"
 category: "team"
 position: "PhD Candidate and Research Assistant"
-thumbnail: "emily-stephenson.png"
+thumbnail: "emily-stephenson.webp"
 image: "emily-stephenson-full.png"
 ---
 Emily Stephenson is Research Assistant who is also working towards her PhD. She plays an integral role for all ongoing projects in the Haniffa lab, using her specialty in single cell multi-omic technologies to generate single cell libraries for sequencing. She also works as a point of contact and collaborator with various other projects tied to the Haniffa lab all across the country. 

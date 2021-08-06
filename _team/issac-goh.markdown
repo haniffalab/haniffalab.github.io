@@ -3,7 +3,7 @@ layout: team
 name:  "Issac Emmanuel Goh Kai’en"
 category: "team"
 position: "Staff PhD Candidate in Bioinformatics"
-thumbnail: "issac-goh.jpg"
+thumbnail: "issac-goh.webp"
 image: "issac-goh-full.jpg"
 ---
 Issac Emmanuel Goh Kai’en is a Staff PhD candidate in Bioinformatics and developmental biology, and visiting scientist at the Wellcome Sanger Institute. He uses his experience in biology and engineering to analyse single cell transcriptomic, proteomic, epigenetic and spatial data from key lymphoid organ systems in the developing human fetus. The study aims to reconcile multi-omic suspension and spatial data to better model in-silico, key events in the developing human fetus as part of the Developmental Cell Atlas. Capitalising on these in-silico models, the study also aims to create advanced in-vitro organ-on-chip models to better recapitulate lymphoid organogenesis in the developing human. 

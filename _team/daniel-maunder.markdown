@@ -3,7 +3,7 @@ layout: team
 name:  "Daniel Maunder"
 category: "team"
 position: "NIHR BRC funded PhD Student"
-thumbnail: "daniel-maunder.png"
+thumbnail: "daniel-maunder.webp"
 image: "daniel-maunder-full.png"
 ---
 Dan is currently nearing completion of his PhD investigating the role of Langhans-type giant cells in the aetiology of the most common form of vasculitis in adults; giant-cell arteritis (GCA). At present, treatment for GCA most often comprises high-dose steroids; which have considerable side effects and may be unsuitable for some patients. Therefore an improved understanding of mechanisms of disease which may lead the way to novel therapeutics would be most welcome.

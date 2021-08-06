@@ -3,7 +3,7 @@ layout: team
 name:  "Rachel Anne Botting"
 category: "team"
 position: "Post Doctoral Research Associate"
-thumbnail: "rachel-botting.jpg"
+thumbnail: "rachel-botting.webp"
 image: "rachel-botting-full.jpg"
 ---
 Dr Rachel Anne Botting is a post doctoral Research Associate, who leads the yolk sac and embryonic skin research within the wider context of the Development Cell Atlas project. She also serves on the Faculty of Medical Sciences Post-Doctoral Committee at Newcastle University. 

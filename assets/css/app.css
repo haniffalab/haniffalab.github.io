@@ -283,7 +283,7 @@
     position: relative;
     height: 100vh;
     min-height: 700px;
-    background: url("../img/welcome-cover.jpg") no-repeat center center fixed;
+    background: url(../img/welcome-cover.webp) no-repeat center center fixed;
     background-size: cover;
   }
   
@@ -361,7 +361,7 @@ ul.navbar-nav,
 }
 .footer-cta {
 	position: relative;
-	background: url(../../assets/img/footer-cover.jpg) no-repeat center center fixed;
+	background: url(../../assets/img/footer-cover.webp) no-repeat center center fixed;
 	background-size: cover; 
 	z-index:1;
 	padding: 100px 0;
@@ -419,7 +419,7 @@ ul.navbar-nav,
 .haniffa-landing-page .top {
     position: relative;
     min-height: 105.953px;
-    background: url(../img/welcome-cover.jpg) no-repeat center center fixed;
+    background: url(../img/welcome-cover.webp) no-repeat center center fixed;
     background-size: cover;
 }
 .haniffa-landing-page .top:before {
@@ -472,7 +472,7 @@ a.team-card-link:hover {
 
 
 .haniffa-landing-page .app-screenshot {
-    background: url("../../assets/img/app-cover.png");
+    background: url("../../assets/img/app-cover.webp");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom left;    
@@ -579,7 +579,7 @@ a.team-card-link:hover {
 
 #aims {
 	position: relative;
-	background: url(../../assets/img/aims-cover.png) no-repeat center center fixed;
+	background: url(../../assets/img/aims-cover.webp) no-repeat center center fixed;
 	background-size: cover; 
 	z-index:1;
 	padding: 100px 0;

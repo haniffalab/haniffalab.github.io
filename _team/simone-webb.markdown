@@ -3,7 +3,7 @@ layout: team
 name:  "Simone Webb"
 category: "team"
 position: "PhD Researcher in Bioinformatics and Immunology"
-thumbnail: "simone-webb.jpg"
+thumbnail: "simone-webb.webp"
 image: "simone-webb-full.jpg"
 ---
 Simone Webb is a PhD researcher in Bioinformatics and Immunology, working on analysing single cell transcriptomic data from human fetal bone marrow as part of the Human Developmental Cell Atlas. 

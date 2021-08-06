@@ -3,7 +3,7 @@ layout: team
 name:  "Caroline Wilson"
 category: "team"
 position: "NUAcT Fellow"
-thumbnail: "caroline-wilson.jpg"
+thumbnail: "caroline-wilson.webp"
 image: "caroline-wilson-full.jpg"
 ---
 Dr Caroline Wilson is a Newcastle University Research Fellow investigating the spatial tumour immune microenvironment for biomarker prediction using comprehensive omics techniques. She is also partaking in projects generating in vivo liver cancer models to understand if the immune system of tumours can be manipulated, preventing tumour development and spread. Within the lab, Caroline also supervises PhD students with their projects.

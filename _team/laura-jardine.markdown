@@ -1,8 +1,9 @@
 ---
 layout: team
 name:  "Laura Jardine"
+category: "team"
 position: "NIHR Academic Clinical Lecturer in Haematology"
-thumbnail: "laura-jardine.png"
+thumbnail: "laura-jardine.webp"
 image: "laura-jardine-full.png"
 ---
 Laura Jardine is an NIHR Academic Clinical Lecturer in Haematology, doing post-doctoral work on developmental haematopoiesis. She co-leads the human fetal bone marrow project, as part of the Human Cell Atlas initiative’s Development Cell Atlas. 

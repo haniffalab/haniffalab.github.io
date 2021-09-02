@@ -1,12 +1,9 @@
 ---
 layout: team
 name:  "Gary Reynolds"
+category: "team"
 position: "Wellcome Trust Clinical Career Development Fellow and Honorary Consultant Rheumatologist"
-thumbnail: "gary-reynolds.png"
+thumbnail: "gary-reynolds.webp"
 image: "gary-reynolds-full.png"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
-
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
-
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+My primary interests are the pathogenesis of vasculitis, in particular Giant Cell Arteritis (GCA). My focus is on the role of mononuclear phagocytes, and in particular the contribution of multinucleated giant cells that are common to this group of diseases. In my clinical role, I am an Honorary Consultant based at the Freeman Hospital in Newcastle and recently contributed to the British Society of Rheumatology guidelines on the management of GCA.

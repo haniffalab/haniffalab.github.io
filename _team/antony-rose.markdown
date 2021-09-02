@@ -1,8 +1,9 @@
 ---
 layout: team
 name:  "Antony Rose"
+category: "team"
 position: "PhD Student"
-thumbnail: "antony-rose.jpg"
+thumbnail: "antony-rose.webp"
 image: "antony-rose-full.jpg"
 ---
 Antony is a PhD student, who investigates the hepatocellular carcinoma (HCC) tumour micro-environment using high-dimensional cytometry analysis. Through his work, he aims to improve patient stratification and inform new targets for therapy.

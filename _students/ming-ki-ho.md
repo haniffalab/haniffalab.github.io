@@ -3,6 +3,7 @@ layout: student
 name:  "Ming Ki Ho"
 subject: "School of Computing"
 qualification: "MSc Computer Science"
+year: 2000
 thumbnail: "dave-horsfall.jpg"
 image: "dave-horsfall-full.jpg"
 ---

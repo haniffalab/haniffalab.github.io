@@ -1,12 +1,11 @@
 ---
 layout: team
 name:  "Mohi Miah"
+category: "team"
 position: "Laboratory Technician"
-thumbnail: "mohi-miah.jpg"
+thumbnail: "mohi-miah.webp"
 image: "mohi-miah-full.jpg"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Mohi Miah is a Laboratory Technician in the lab, who assists with the sample processing as well as the single cell genomics for the Human Cell Atlas projects. He is also training in spatial analysis techniques using the Visium Spatial Gene Expression technology.
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
-
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+Mohi received his BSc in Biomedical Science from Newcastle University in 2017 and stayed to complete an MRes in Neuroscience in 2019. Running parallel to this he is also a qualified personal trainer, with training experience in mixed martial arts. He enjoys playing and watching football (Liverpool mostly), taking care of his plants, and makes a mean crumble.

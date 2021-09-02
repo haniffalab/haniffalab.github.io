@@ -1,8 +1,9 @@
 ---
 layout: team
 name:  "Michael Mather"
+category: "team"
 position: "Action Medical Research Clinical Fellow"
-thumbnail: "michael-mather.jpg"
+thumbnail: "michael-mather.webp"
 image: "michael-mather-full.jpg"
 ---
 Michael is a Clinical Fellow in Otolaryngology, undertaking his PhD with the Haniffa Lab funded by Action Medical Research. Michael’s research focus is the immunology of ear infections. Most children will have at least one ear infection in their first few years – typically at very young ages. In some cases, infections are recurrent and can result in hearing loss due to fluid build-up behind the ear drum, which can cause problems with development and learning so surgery is commonly necessary.

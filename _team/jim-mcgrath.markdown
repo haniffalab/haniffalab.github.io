@@ -1,12 +1,13 @@
 ---
 layout: team
 name:  "Jim McGrath"
+category: "team"
 position: "Research Software Engineer"
-thumbnail: "staff-profile.png"
-image: "staff-profile.png"
+thumbnail: "jim-mcgrath.webp"
+image: "jim-mcgrath-full.png"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non turpis ut est maximus gravida eget id turpis. Suspendisse viverra est et sapien porttitor, facilisis lacinia velit aliquam. Vestibulum rhoncus purus quis felis egestas congue. 
+Jim McGrath is a Research Software Engineer (RSE), currently working on enhancements to the lab's web portals. Jim is focussed on helping the lab communicate their research effectively to the general public at the same time as providing useful tools to researchers and clinicians.
 
-Integer non dui blandit, scelerisque felis ut, placerat tortor. Duis quam ipsum, ornare at cursus eu, interdum id nisi. Fusce at augue et diam varius consequat eget in lorem. Nullam at pellentesque dolor. Quisque id laoreet est. Aenean rhoncus leo eget porta molestie. Aliquam nisl mauris, mattis vitae magna nec, fringilla ultrices felis. In imperdiet porta tellus a tristique. Nunc eros velit, porttitor sit amet pulvinar rutrum, ornare a magna. Fusce porttitor fermentum lacus quis ornare. Etiam sed ex in ipsum lobortis interdum sed id nunc. Vestibulum lobortis finibus mi et ultricies. Etiam eget purus mi. 
+Jim has worked in a range of IT support and software development jobs since graduating in Religious Studies in the late '90s. He completed a Masters in Computer Science in 2006, and since then has largely worked in higher education. Jim joined Newcastle University from the University of Manchester, where he had been an RSE for four years.
 
-Cras condimentum consectetur cursus. Aliquam lobortis, eros quis auctor hendrerit.
+When he gets away from his computer Jim enjoys playing board games, cooking, and cycling.

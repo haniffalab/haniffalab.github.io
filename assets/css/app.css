@@ -246,3 +246,16 @@ a.team-card-link:hover {
 #research a:hover {
     text-decoration: none;
 }
+.list-item-title {
+    display:block;
+    font-size:85%;
+    font-weight:300;
+    color:#8f99ac;
+}
+.student-quote {
+    margin: 0 auto 80px auto;
+    text-align:center;
+    font-size:34px;;
+    font-weight:300;
+    color:#8f99ac;
+}

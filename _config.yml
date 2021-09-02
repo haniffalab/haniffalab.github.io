@@ -32,6 +32,8 @@ github_username:  jekyll
 collections:
   team:
     output: true   
+  students:
+    output: true   
 
 # Build settings
 theme: minima

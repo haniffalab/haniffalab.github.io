@@ -3,7 +3,7 @@ layout: student
 name:  "Ming Ki Ho"
 subject: "School of Computing"
 qualification: "MSc Computer Science"
-year: 2000
+year: 2021
 supervisor: "Dave Horsfall"
 quote: "A quote about what you learnt or how you feel about your experience of working in the lab"
 thumbnail: "dave-horsfall.jpg"

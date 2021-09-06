@@ -1,5 +1,5 @@
 ---
-layout: student
+layout: intern
 name:  "Ming Ki Ho"
 
 univeristy: "Newcastle University"

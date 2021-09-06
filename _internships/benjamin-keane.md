@@ -1,5 +1,5 @@
 ---
-layout: student
+layout: intern
 name:  "Benjamin Keane"
 univeristy: "Newcastle University"
 faculty: "Faculty of Science, Agriculture and Engineering "

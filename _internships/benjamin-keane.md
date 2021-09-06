@@ -6,7 +6,7 @@ faculty: "Faculty of Science, Agriculture and Engineering "
 school: "School of Natural and Environmental Sciences"
 qualification: "Cellular and Molecular Biology MBiol Honours"
 year: 2021
-supervisor: "Issac Emmanuel Goh Kai’en"
+supervisor: "Antony Rose, Issac Emmanuel Goh Kai’en with support from Justin, Mohi, Emily, Bayanne"
 quote: "This internship has allowed me to gain regular lab experience that will be crucial for my career moving forward. The lab has a fantastic working environment that will inspire any future student interns."
 thumbnail: "benjamin-keane.webp"
 image: "benjamin-keane-full.webp"

@@ -7,7 +7,7 @@ faculty: "Faculty of Science, Agriculture and Engineering "
 subject: "School of Computing"
 qualification: "MSc Computer Science"
 year: 2021
-supervisor: "Dave Horsfall"
+supervisor: "Dave Horsfall, Jim McGrath"
 quote: "A quote about what you learnt or how you feel about your experience of working in the lab"
 thumbnail: "ming-ki-ho.webp"
 image: "ming-ki-ho-full.webp"

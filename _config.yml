@@ -32,7 +32,7 @@ github_username:  jekyll
 collections:
   team:
     output: true   
-  students:
+  internships:
     output: true   
 
 # Build settings

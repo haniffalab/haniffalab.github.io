@@ -1,7 +1,9 @@
 ---
 layout: student
 name:  "Emily Jones"
-subject: "School of Mathematics, Statistics and Physics"
+univeristy: "Newcastle University"
+faculty: "Faculty of Science, Agriculture and Engineering "
+school: "School of Mathematics, Statistics and Physics"
 qualification: "Mathematics BSc Honours"
 year: 2021
 supervisor: "Issac Emmanuel Goh Kai’en"

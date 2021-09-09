@@ -6,7 +6,7 @@ faculty: "Faculty of Science, Agriculture and Engineering "
 school: "School of Mathematics, Statistics and Physics"
 qualification: "Mathematics BSc Honours"
 year: 2021
-supervisor: "Antony Rose, Issac Emmanuel Goh Kai’en with support from Justin, Mohi, Emily, Bayanne"
+supervisor: "Antony Rose, Issac Emmanuel Goh Kai’en"
 quote: "The Haniffa lab has been an inspirational team to work in, the research I’ve done has been insightful to how big the cross over between mathematics and biology is."
 thumbnail: "emily-jones.webp"
 image: "emily-jones-full.webp"

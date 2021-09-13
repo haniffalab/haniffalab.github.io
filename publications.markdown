@@ -3,7 +3,8 @@ layout: page
 title: Publications
 ---
 <ul class="list-group mb-5">
-    {% for pub in site.data.publications %}
+    {% assign pubs = site.data.publications | sort: "CreateDate" | reverse %}
+    {% for pub in pubs %}
     <li class="list-group-item publication">
         <h5 class="title">
             <a href="https://pubmed.ncbi.nlm.nih.gov/{{ pub.PMID }}">{{ pub.Title }}</a></h5>

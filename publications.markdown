@@ -7,7 +7,7 @@ title: Publications
     {% for pub in pubs %}
     <li class="list-group-item publication">
         <h5 class="title">
-            <a href="https://pubmed.ncbi.nlm.nih.gov/{{ pub.PMID }}">{{ pub.Title }}</a></h5>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/{{ pub.PMID }}" target="_blank">{{ pub.Title }}</a></h5>
         <p class="authors">
             {{ pub.Authors }}</p>
         <p class="journal">

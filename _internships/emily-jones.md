@@ -1,10 +1,11 @@
 ---
 layout: intern
 name:  "Emily Jones"
-univeristy: "Newcastle University"
+institute: "Newcastle University"
 faculty: "Faculty of Science, Agriculture and Engineering "
 school: "School of Mathematics, Statistics and Physics"
-qualification: "Mathematics BSc Honours"
+placement: ""
+qualification: "BSc Mathematics"
 year: 2021
 supervisor: "Antony Rose, Issac Emmanuel Goh Kai’en"
 quote: "The Haniffa lab has been an inspirational team to work in, the research I’ve done has been insightful to how big the cross over between mathematics and biology is."

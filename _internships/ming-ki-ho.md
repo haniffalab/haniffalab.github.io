@@ -1,9 +1,10 @@
 ---
 layout: intern
 name:  "Ming Ki Ho"
-univeristy: "Newcastle University"
+institute: "Newcastle University"
 faculty: "Faculty of Compute Science"
-subject: "School of Computing"
+school: "School of Computing"
+placement: ""
 qualification: "MSc Computer Science"
 year: 2021
 supervisor: "Dave Horsfall, with support from Jim McGrath"

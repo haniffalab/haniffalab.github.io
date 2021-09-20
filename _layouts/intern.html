@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="team-profile section py-4">
   <h3 class="section-title text-center m-5">{{ page.name }}
-    <span class="team-position">{{ page.subject }}</span>
+    <span class="team-position">{{ page.school  | default: page.placement }}</span>
   </h3>
   <div class="container py-5">
     <div class="example col-md-12 ml-auto mr-auto">
@@ -21,7 +21,7 @@ layout: default
               <li class="list-group-item">
                 <div class="row mb-4">
                   <div class="col-lg-9 col-md-9 col-sm-12">
-                    <span class="list-item-title">Degree</span>{{ page.qualification }}
+                    <span class="list-item-title">Qualification</span>{{ page.qualification }}
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-12">
                     <span class="list-item-title">Year</span>{{ page.year }}

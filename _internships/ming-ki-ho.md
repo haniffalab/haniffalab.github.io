@@ -1,16 +1,15 @@
 ---
 layout: intern
 name:  "Ming Ki Ho"
-
 univeristy: "Newcastle University"
-faculty: "Faculty of Science, Agriculture and Engineering "
+faculty: "Faculty of Compute Science"
 subject: "School of Computing"
 qualification: "MSc Computer Science"
 year: 2021
-supervisor: "Dave Horsfall, Jim McGrath"
-quote: "A quote about what you learnt or how you feel about your experience of working in the lab"
+supervisor: "Dave Horsfall, with support from Jim McGrath"
+quote: "The Haniffa Lab team is really supportive and inspiring.  The research project I've done gave me experience on working as a software engineer and data analyst, which is valuable for my future career development."
 thumbnail: "ming-ki-ho.webp"
 image: "ming-ki-ho-full.webp"
-progression: "..."
+progression: "I will be pursing a software engineer job in the technology sector"
 ---
-The project focused on testing the performance of the Human Cell Atlas API to determine the optimum Azure cloud architecture for processing large single cell RNA sequencing datasets. This involved benchmarking the performance of the application on different Azure virtual machines as the dataset size scaled up. Secondly, the project will provide suggestions on possible improvements for the backend Python code for improving the API efficiencies.
+The project I involved focused on testing the performance of the Human Cell Atlas API to determine the optimum Azure cloud architecture for processing large single cell RNA sequencing datasets. This involve benchmarking the performance of the application on different Azure virtual machines as the dataset size scale up. Also, suggestions has been made on possible improvements for the backend Python code for improving the API efficiencies.

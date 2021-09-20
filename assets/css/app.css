@@ -608,9 +608,23 @@ a.team-card-link:hover {
     color:#8f99ac;
 }
 .student-quote {
-    margin: 0 auto 80px auto;
-    text-align:center;
-    font-size:34px;;
-    font-weight:300;
-    color:#8f99ac;
+    font-size:30px;;
+    text-align: justify;
+    font-style: italic;
+    margin: 0 80px 80px 80px;
+    padding: 0.35em 40px;
+    line-height: 1.45;
+    position: relative;
+    color: #383838;
+}
+.student-quote:before {
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 250px;
+    position: absolute;
+    left: -80px;
+    top: -96px;
+    color: #8f99ac;
+    opacity: 0.3;
 }

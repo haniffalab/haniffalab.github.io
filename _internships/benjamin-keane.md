@@ -1,10 +1,11 @@
 ---
 layout: intern
 name:  "Benjamin Keane"
-univeristy: "Newcastle University"
+institute: "Newcastle University"
 faculty: "Faculty of Science, Agriculture and Engineering "
 school: "School of Natural and Environmental Sciences"
-qualification: "Cellular and Molecular Biology MBiol Honours"
+placement: ""
+qualification: "MBiol Cellular and Molecular Biology"
 year: 2021
 supervisor: "Antony Rose, Issac Emmanuel Goh Kai’en with support from Justin, Mohi, Emily, Bayanne"
 quote: "This internship has allowed me to gain regular lab experience that will be crucial for my career moving forward. The lab has a fantastic working environment that will inspire any future student interns."

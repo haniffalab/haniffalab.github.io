@@ -628,3 +628,15 @@ a.team-card-link:hover {
     color: #8f99ac;
     opacity: 0.3;
 }
+
+
+
+.article h3 {
+  font-size: 1.953rem;
+  line-height: 2.25rem;
+  margin-bottom: 20px;
+}
+.article p {
+  text-align: justify;
+  text-justify: inter-word;
+}

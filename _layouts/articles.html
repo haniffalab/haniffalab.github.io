@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<!-- / Aims Section -->
+<!-- Research Section -->
+<div id="research" class="section section-invert py-4">
+    <h3 class="section-title text-center m-5">Research Interests</h3>
+    <div class="container">
+      <div class="py-4">
+            {% for post in site.posts %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if loopindex == 1 %}
+                <div class="row clearfix">
+            {% endif %}
+
+            <div class="col-md-12 col-lg-4 d-flex">
+                <a class="card mb-4 flex-fill" href="{{ post.url | relative_url }}">
+                  <img class="card-img-top" src="assets/img/cards/hca.jpg" alt="Human Cell Atlas">
+                  <div class="card-body">
+                    <h4 class="card-title">{{ post.title }}</h4>
+                    <p class="card-text">{{ post.author }} | {{ post.date | date: "%-d %B %Y" }}</p>
+                    <div class="btn btn-primary btn-pill">Read More</div>
+                  </div>
+                </a>
+              </div>
+
+            {% if loopindex != 1 %}
+                </div>
+            {% endif %}            
+        {% endfor %}            
+
+      </div>
+    </div>
+  </div>
+  <!-- / Research Section -->
+

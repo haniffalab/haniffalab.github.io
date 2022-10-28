@@ -2,14 +2,12 @@
 layout: team
 name:  "Emily Stephenson"
 category: "team"
-position: "PhD Candidate and Research Assistant"
+position: "Senior Research Associate"
 thumbnail: "emily-stephenson.webp"
 image: "emily-stephenson-full.png"
 ---
-Emily Stephenson is Research Assistant who is also working towards her PhD. She plays an integral role for all ongoing projects in the Haniffa lab, using her specialty in single cell multi-omic technologies to generate single cell libraries for sequencing. She also works as a point of contact and collaborator with various other projects tied to the Haniffa lab all across the country. 
+Emily Stephenson is Senior Research Associate. She plays an integral role for all ongoing projects in the Haniffa lab, using her expertise in genomics and immunology. She also works as a point of contact for many collaborators who work closely with the lab. Her primary research interest is studying the human immune system during prenatal life as well as during infection and inflammation. 
 
-Her primary interest is in studying the developing human immune system during prenatal life as well as infection and inflammation. She does this by applying her skills in molecular biology and genomics that she honed by achieving her Bachelor’s Degree in Biology at Newcastle University and previous laboratory roles. Emily acts as a major coordinator for many aspects of the laboratory area, and enjoys using her experience to train junior researchers in her field. She is always happy to volunteer time to assist her colleagues, whether that’s discussing research possibilities or even using her skills as a trained phlebotomist!
+Emily acts as a major coordinator for the wet lab work in Newcastle and enjoys using her experience to train junior researchers in her field. She also enjoys supervising technical staff, PhD students Post-docs and helping them to achieve their goals. 
 
-Outside of the lab, Emily is keen on running and keeping fit, and is a big Sunderland AFC fan! 
-
-
+Outside of the lab, Emily is keen on running and keeping fit, and is a big Sunderland AFC fan!

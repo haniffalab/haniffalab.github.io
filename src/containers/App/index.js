@@ -3,25 +3,25 @@ import { Switch, Route } from "react-router-dom";
 
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
-import Donors from "../Donors";
-import Donor from "../Donor";
-import Studies from "../Studies";
-import Study from "../Study";
-
-
+import Home from "../Home";
+import Research from "../Research";
+// import Team from "../Team";
+// import Publications from "../Publications";
+// import Blog from "../Blog";
+import CookieConsent from "react-cookie-consent";
 
 function App() {
   return (
     <div className="App">
       <Header />
       <Switch>
-        <Route path="/" component={Studies} exact />
-        <Route path="/studies" component={Studies} exact />
-        <Route path="/study/:slug" component={Study} exact />
-        <Route path="/donors" component={Donors} exact />
-        <Route path="/donor/:slug" component={Donor} exact />
+        <Route path="/" component={Home} exact />
+        <Route path="/research" component={Research} exact />
+        <Route path="/team" component={Home} exact />
+        <Route path="/publications" component={Home} exact />
       </Switch>
       <Footer />
+      <CookieConsent>This website uses cookies to enhance the user experience.</CookieConsent>
     </div>
   );
 }

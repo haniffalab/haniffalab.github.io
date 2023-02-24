@@ -1,16 +1,64 @@
-# The Haniffa Lab Website
+# Strapi Starter React Blog
 
-This repository generates what goes on the <https://haniffalab.com> website. The website is hosted on [Github Pages](https://pages.github.com/) and is generated using [Jekyll](https://jekyllrb.com/).
+> **Warning :warning:**
+>
+> This starter is deprecated and relies on the deprecated **[strapi/strapi-legacy-blog](https://github.com/strapi/strapi-legacy-blog)** repository.
+>
+> Instead, we recommend that you use our other React blog starters with better SEO support:
+>
+> * [**strapi-starter-gatsby-blog**](https://github.com/strapi/strapi-starter-gatsby-blog)
+> * [**strapi-starter-next-blog**](https://github.com/strapi/strapi-starter-next-blog)
 
-## Contributions
+React starter for creating a blog with Strapi.
 
-If you notice spelling mistakes or other issues, please do submit a pull request.
+This starter allows you to try Strapi with React with the example of a simple blog. It is fully customizable and due to the fact that it is open source, fully open to contributions. Do not hesitate to add new features etc ...
 
-## Generating publications list
+You may want to know how to develop such a starter by your own! This starter is actually the result of this [tutorial](https://strapi.io/blog/build-a-blog-with-react-strapi-and-apollo)
 
-The list of publications is manually exported from the National Library of Medicine page here:
-https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28%28Haniffa+M%29+NOT+fish%29+NOT+ARG1%29+NOT+ppbp+NOT+Channa%29+NOT+Sri+Lanka+NOT+Polymer+NOT+ITPA+NOT+Coffin-Siris
+![screenshot image](/screenshot.png)
 
-It should be saved in the `_data` folder. In the header row, the spaces should be removed from the column names (not compatible with Jekyll). Additionally, the file should be opened in LibreCalc (or similar) and saved again. More precisely, the unnecessary double quotation marks should be removed from integer values in the CSV.
+## Features
 
-If you notice spelling mistakes or other issues, please do submit a pull request.
+- 2 Content types: Study, Category
+- 2 Created studies
+- 3 Created categories
+- Permissions set to `true` for study and category
+- Responsive design using UIkit
+
+Pages:
+
+- "/" display every studies
+- "/study/:id" display one study
+- "/category/:id" display studies depending on the category
+
+## Getting started
+
+### Backend
+
+See full instructions [here](https://github.com/strapi/strapi-legacy-blog)
+
+### Frontend
+
+```bash
+git clone https://github.com/strapi/strapi-starter-react-blog.git
+cd strapi-starter-react-blog
+```
+
+Then start the frontend server:
+
+```bash
+# Using yarn
+yarn install
+yarn develop
+
+# Using npm
+npm install
+npm run develop
+
+# Create a .env file containing the API_URL variable
+echo 'SKIP_PREFLIGHT_CHECK=true\nREACT_APP_BACKEND_URL="http://localhost:1337' >> .env
+```
+
+React server is running here => [http://localhost:3000](http://localhost:3000)
+
+Enjoy this starter!

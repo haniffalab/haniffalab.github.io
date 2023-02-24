@@ -1,9 +1,0 @@
----
-layout: page
-title:  "Human Cell Atlas"
----
-The Human Cell Atlas (HCA) is a global initiative that aims to create a reference atlas of the human body by mapping every cell. Having a reference atlas of the healthy human body will allow us to understand what has changed in disease and how we can reverse or ameliorate these pathological processes.  The Haniffa Lab is involved in the Human Developmental and the Skin Cell Atlas.  Muzz is one of the three coordinators of the Developmental Biological Network.
-
-An atlas across the human lifespan will further our understanding of ageing with important applications for stem cell therapy and regenerative medicine. Our HCA studies showed how haematopoietic stem cells found prenatally are ‘supercharged’ with greater capacity to renew and differentiate into blood cells. Identifying the factors that can make stem cells more potent will improve stem cell therapies for example haematopoietic stem cell transplants, an effective therapy to treat leukaemia and lymphomas.  Our HCA research also showed that a common childhood tumour affecting the kidney, Wilms’ tumour, was due to aberrant nephron development. This has therapeutic implications as it means we can potentially treat Wilms’ tumour by inducing nephron differentiation instead of chemotherapy and surgery. 
- 
-To build the HCA requires multi-disciplinary expertise; scientists, clinicians, bioinformaticians, engineers, software developers and computer scientists.  This is why researchers with diverse background and expertise work collaboratively in the Haniffa Lab.  The HCA data we have generated is free to access by everyone through our browsable webportal.

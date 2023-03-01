@@ -4,166 +4,268 @@ import Card from 'react-bootstrap/Card';
 import Area1 from '../../assets/images/research-interest-1.jpg';
 import { Link } from "react-router-dom";
 
+import { Vitessce } from 'vitessce';
+import vitessceConfig1 from '../../vitessce/configs/1';
+
+import styled from 'styled-components'
+import VimeoPlayer from '@u-wave/react-vimeo'
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faTwitter, faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faHandshakeAngle } from '@fortawesome/free-solid-svg-icons'
+
+import ImgDiversity from '../../assets/images/undraw_Team_re_0bfe.png';
+import ImgTeam from '../../assets/images/undraw_Engineering_team_a7n2.png';
+import ImgInclusion from '../../assets/images/undraw_sharing_knowledge_03vp.png';
+
+const Vimeo = styled(VimeoPlayer)`
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 0;
+  height: 0;
+  overflow: hidden;
+  margin-bottom: 30px;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+`
+
+const Figure = styled.div`
+height: 400px;
+`
+
+
 
 const Home = () => {
 
   return (
     <div>
-      <section id="video" className="section-2 highlights image-center">
-        <div className="container smaller">
-          <div className="row text-center intro">
-            <div className="col-12">
-              <h2>Institutional</h2>
+      <section id="welcome" className="section-2 highlights image-center">
+        <Container>
+          <Row className="mt-5 pt-5">
+            <Col lg={6} md={12}>
+              <h2 className="heading-block">Team Science</h2>
               <p className="text-max-800">Get to know a little of our history and the road we traveled that took us to the level we are today.</p>
-            </div>
-          </div>
-          <div className="row text-center">
-            <div className="col-12 gallery">
-              <a href="https://www.youtube.com/watch?v=7e90gBu4pas" className="square-image d-flex justify-content-center align-items-center">
-                <i className="icon bigger icon-control-play" />
-                <img src="assets/images/news-4.jpg" className="fit-image" alt="Fit Image" />
-              </a>
-            </div>
-          </div>
-        </div>
+            </Col>
+            <Col lg={6} md={12}>
+              <Vimeo
+                video="623468767"
+              />
+            </Col>
+          </Row>
+        </Container>
       </section>
-      <section id="features" className="section-1 offers featured">
-        <div className="container">
-          <div className="row justify-content-center text-center items">
-            <div className="col-12 col-md-6 col-lg-4 item">
-              <div className="card no-hover">
-                <i className="icon icon-globe" />
-                <h4>Website Pro</h4>
-                <p>We build professional responsive websites optimized for the most popular search engines.</p>
-              </div>
-            </div>
-            <div className="col-12 col-md-6 col-lg-4 item">
-              <div className="card no-hover">
-                <i className="icon icon-basket" />
-                <h4>E-Commerce</h4>
-                <p>Increase your sales with an incredible online store, full of features and functionality.</p>
-              </div>
-            </div>
-            <div className="col-12 col-md-6 col-lg-4 item">
-              <div className="card no-hover">
-                <i className="icon icon-screen-smartphone" />
-                <h4>Mobile Apps</h4>
-                <p>Follow the global trend and create your revolutionary mobile app built with the best technologies.</p>
-              </div>
-            </div>
-          </div>
-        </div>
+      <section id="culture" className="section-2 highlights image-center">
+        <Container>
+          <Row className="my-5 py-5 text-center">
+            <Col lg={4} md={12}>
+              <img src={ImgDiversity} width="300" alt="iphone 2" />
+            </Col>
+            <Col lg={4} md={12}>
+              <img src={ImgTeam} width="300" alt="iphone 2" />
+            </Col>
+            <Col lg={4} md={12}>
+              <img src={ImgInclusion} width="300" alt="iphone 2" />
+            </Col>
+            <Col lg={4} md={12}>
+              <h4>Strength through diversity</h4>
+              <p>We build professional responsive websites optimized for the most popular search engines.</p>
+            </Col>
+            <Col lg={4} md={12}>
+              <h4>Advocating team science</h4>
+              <p>We build professional responsive websites optimized for the most popular search engines.</p>
+            </Col>
+            <Col lg={4} md={12}>
+              <h4>Inclusion and innovation</h4>
+              <p>We build professional responsive websites optimized for the most popular search engines.</p>
+            </Col>
+          </Row>
+        </Container>
+      </section>
+      <section id="highlight" className="section-2 highlights image-center">
+        <Container>
+          <Row className="text-center mt-5 pt-5">
+            <Col>
+              <h2>Unlocking immune system development</h2>
+              <p className="text-max-800">Get to know a little of our history and the road we traveled that took us to the level we are today.</p>
+            </Col>
+          </Row>
+          <Row className="text-center">
+            <Col className="my-5 py-5">
+              <Figure>
+                <Vitessce
+                  config={vitessceConfig1}
+                  height={400}
+                  theme="light"
+                />
+              </Figure>
+            </Col>
+          </Row>
+        </Container>
       </section>
       <section id="research-themes" className="research-themes">
-        <Container>
-          <Row className="text-center">
-            <Col>
-              <h2>Research Themes</h2>
-              <p >Get to know a little of our history and the road we traveled that took us to the level we are today.</p>
+        <Container fluid className="gx-0">
+          <Row>
+            <Col lg={6} md={12} className="research-area-bg">
+
+            </Col>
+            <Col lg={6} md={12} className="text-center">
+              <div className="my-5 pt-3">
+                <span className="before-heading color">Easily Understandable &amp; Customizable.</span>
+                <h3>Walkthrough Videos &amp; Demos</h3>
+              </div>
+              <Row>
+                <Col lg={{ span: 10, offset: 1 }} md={{ span: 6, offset: 3 }}>
+                  <Vimeo
+                    video="623468767"
+                  />
+                </Col>
+              </Row>
+              <p className="my-3 pb-3 lead">Democracy inspire breakthroughs, Rosa Parks; inspiration raise awareness natural resources. Governance impact; transformative donation philanthropy, respect reproductive.</p>
             </Col>
           </Row>
         </Container>
         <Container fluid className="gx-0">
           <Row className="gx-0">
-            <Col lg={4} md={12}>
+            <Col lg={3} md={12}>
               <Link to={'/'}>
                 <Card className="bg-dark text-white">
-                  <Card.Img src={Area1} alt="Card image" />
-                  <Card.ImgOverlay className="text-center">
-                    <div className="card-caption">
-                      <Card.Title>Skin in health and disease across lifespan </Card.Title>
-                      <Card.Text>
-                        This is a wider card with supporting text below as a natural lead-in
-                        to additional content. This content is a little bit longer.
-                      </Card.Text>
-                    </div>
-                  </Card.ImgOverlay>
+                  <Card.Body className="text-center">
+                    <Card.Title>Skin in health and disease across lifespan </Card.Title>
+                    <Card.Text>
+                      This is a wider card with supporting text below as a natural lead-in
+                      to additional content. This content is a little bit longer.
+                    </Card.Text>
+                  </Card.Body>
                 </Card>
               </Link>
             </Col>
-            <Col lg={4} md={12}>
+            <Col lg={3} md={12}>
               <Link to={'/'}>
                 <Card className="bg-dark text-white">
-                  <Card.Img src={Area1} alt="Card image" />
-                  <Card.ImgOverlay className="text-center">
-                    <div className="card-caption">
-                      <Card.Title>Immunogenomics  </Card.Title>
-                      <Card.Text>
-                        This is a wider card with supporting text below as a natural lead-in
-                        to additional content. This content is a little bit longer.
-                      </Card.Text>
-                    </div>
-                  </Card.ImgOverlay>
+                  <Card.Body className="text-center">
+
+                    <Card.Title>Immunogenomics  </Card.Title>
+                    <Card.Text>
+                      This is a wider card with supporting text below as a natural lead-in
+                      to additional content. This content is a little bit longer.
+                    </Card.Text>
+                  </Card.Body>
                 </Card>
               </Link>
-
             </Col>
-            <Col lg={4} md={12}>
+            <Col lg={3} md={12}>
               <Link to={'/'}>
                 <Card className="bg-dark text-white">
-                  <Card.Img src={Area1} alt="Card image" />
-                  <Card.ImgOverlay className="text-center">
-                    <div className="card-caption"><Card.Title>Development </Card.Title>
-                      <Card.Text>
-                        This is a wider card with supporting text below as a natural lead-in
-                        to additional content. This content is a little bit longer.
-                      </Card.Text>
-                    </div>
-                  </Card.ImgOverlay>
+                  <Card.Body className="text-center">
+                    <Card.Title>Development </Card.Title>
+                    <Card.Text>
+                      This is a wider card with supporting text below as a natural lead-in
+                      to additional content. This content is a little bit longer.
+                    </Card.Text>
+                  </Card.Body>
                 </Card>
               </Link>
-
+            </Col>
+            <Col lg={3} md={12}>
+              <Link to={'/'}>
+                <Card className="bg-dark text-white">
+                  <Card.Body className="text-center">
+                    <Card.Title>Development </Card.Title>
+                    <Card.Text>
+                      This is a wider card with supporting text below as a natural lead-in
+                      to additional content. This content is a little bit longer.
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </Link>
             </Col>
           </Row>
         </Container>
       </section >
-      <div id="app-features" class="app-features section">
-        <div class="container-fluid">
-          <div class="row">
-            <div class="app-screenshot col-lg-4 col-md-12 col-sm-12 px-0 py-5">
-              <a target="_blank" href="https://developmental.cellatlas.io/">
-                <img class="mt-auto mb-auto" src="/assets/img/app-screenshot.webp" alt="Software Screenshot" />
-              </a>
-            </div>
-            <div class="app-features-wrapper col-lg-4 col-md-6 col-sm-12 py-5 mx-auto">
-              <div class="container">
-                <h3 class="section-title underline--left my-5">Research Software Engineering</h3>
-                <div class="feature py-3 d-flex">
-                  <div class="icon text-white bg-info mr-5"><i class="fa fa-mouse-pointer"></i></div>
-                  <div>
-                    <h5>Web app data explorer</h5>
-                    <p>For analysis and exploration of single cell RNA sequencing transcriptomics data</p>
+
+      <section id="rse" className="section-2 highlights image-center">
+        <Container>
+          <Row className="text-center mt-5 pt-5">
+            <Col>
+              <h2>Research Software Engineering</h2>
+              <p className="text-max-800">Get to know a little of our history and the road we traveled that took us to the level we are today</p>
+            </Col>
+          </Row>
+          <Row className="text-center">
+            <Col className="my-5 py-5">
+
+              <div className="row col-mb-50 mb-4 align-items-center">
+                <div className="col-lg-4 col-md-6">
+                  <div className="feature-box flex-md-row-reverse text-md-end fadeIn animated" data-animate="fadeIn">
+                    <div className="fbox-icon">
+                      <a href="#"><i className="icon-line-heart"></i></a>
+                    </div>
+                    <div className="fbox-content">
+                      <h3>Boxed &amp; Wide Layouts</h3>
+                      <p>Stretch your Website to the Full Width or make it boxed to surprise your visitors.</p>
+                    </div>
+                  </div>
+                  <div className="feature-box flex-md-row-reverse text-md-end mt-5 fadeIn animated" data-animate="fadeIn" data-delay="200">
+                    <div className="fbox-icon">
+                      <a href="#"><i className="icon-line-paper"></i></a>
+                    </div>
+                    <div className="fbox-content">
+                      <h3>Extensive Documentation</h3>
+                      <p>We have covered each &amp; everything in our Docs including Videos &amp; Screenshots.</p>
+                    </div>
+                  </div>
+                  <div className="feature-box flex-md-row-reverse text-md-end mt-5 fadeIn animated" data-animate="fadeIn" data-delay="400">
+                    <div className="fbox-icon">
+                      <a href="#"><i className="icon-line-layers"></i></a>
+                    </div>
+                    <div className="fbox-content">
+                      <h3>Parallax Support</h3>
+                      <p>Display your Content attractively using Parallax Sections with HTML5 Videos.</p>
+                    </div>
                   </div>
                 </div>
-                <div class="feature py-3 d-flex">
-                  <div class="icon text-white bg-info mr-5"><i class="fas fa-dna"></i></div>
-                  <div>
-                    <h5>Single cell transcriptomics</h5>
-                    <p>Visual exploration of the expression of genes at the single-cell resolution</p>
+                <div className="col-lg-4 d-md-none d-lg-block text-center">
+                  <img src="images/services/iphone7.png" alt="iphone 2" />
+                </div>
+                <div className="col-lg-4 col-md-6">
+                  <div className="feature-box fadeIn animated text-md-start" data-animate="fadeIn">
+                    <div className="fbox-icon">
+                      <a href="#"><i className="icon-line-power"></i></a>
+                    </div>
+                    <div className="fbox-content">
+                      <h3>HTML5 Video</h3>
+                      <p>Canvas provides support for Native HTML5 Videos that can be added to a Background.</p>
+                    </div>
+                  </div>
+                  <div className="feature-box mt-5 fadeIn animated text-md-start" data-animate="fadeIn" data-delay="200">
+                    <div className="fbox-icon">
+                      <a href="#"><i className="icon-line-check"></i></a>
+                    </div>
+                    <div className="fbox-content">
+                      <h3>Endless Possibilities</h3>
+                      <p>Complete control on each &amp; every element that provides endless customization.</p>
+                    </div>
+                  </div>
+                  <div className="feature-box mt-5 fadeIn animated text-md-start" data-animate="fadeIn" data-delay="400">
+                    <div className="fbox-icon">
+                      <a href="#"><i className="icon-bulb"></i></a>
+                    </div>
+                    <div className="fbox-content">
+                      <h3>Light &amp; Dark Color Schemes</h3>
+                      <p>Change your Website's Primary Scheme instantly by simply adding the dark class.</p>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <section id="highlight" className="section-2 highlights image-center">
-        <div className="container smaller">
-          <div className="row text-center intro">
-            <div className="col-12">
-              <h2>Recent Highlight</h2>
-              <p className="text-max-800">Get to know a little of our history and the road we traveled that took us to the level we are today.</p>
-            </div>
-          </div>
-          <div className="row text-start">
-            <div className="col-12 gallery">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus molestie orci, non tristique orci dapibus non. Nulla tempor ullamcorper massa. Sed elementum lectus vitae faucibus dictum. Nulla ex ipsum, euismod quis ligula in, rhoncus imperdiet lorem. Proin vel eros vitae mi dictum ultricies. Nulla condimentum augue ut imperdiet ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas leo id lacus auctor, eu interdum elit lacinia. Praesent vel tellus neque. Phasellus a venenatis neque. Nullam a ex mollis, interdum sem lobortis, convallis eros.
-              </p>
-            </div>
-          </div>
-        </div>
+            </Col>
+          </Row>
+        </Container>
       </section>
 
     </div >

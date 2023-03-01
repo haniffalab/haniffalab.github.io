@@ -31,7 +31,7 @@ export default function Footer() {
               <Row>
                 <Col lg={6} md={12}>
                   <h4 className="title">Projects</h4>
-                  <ul className="navbar-nav">
+                  <ul className="navbar-nav mb-5">
                     <li className="nav-item">
                       <a href="#" className="nav-link">Website Development</a>
                     </li>
@@ -51,7 +51,7 @@ export default function Footer() {
                 </Col>
                 <Col lg={6} md={12}>
                   <h4 className="title">Software</h4>
-                  <ul className="navbar-nav">
+                  <ul className="navbar-nav mb-5">
                     <li className="nav-item">
                       <a href="#" className="nav-link">Website Development</a>
                     </li>
@@ -67,7 +67,7 @@ export default function Footer() {
               <Row>
                 <Col lg={6} md={12}>
                   <h4 className="title">Community</h4>
-                  <ul className="navbar-nav">
+                  <ul className="navbar-nav mb-5">
                     <li className="nav-item">
                       <a href="#" className="nav-link">Github</a>
                     </li>
@@ -84,7 +84,7 @@ export default function Footer() {
                 </Col>
                 <Col lg={6} md={12}>
                   <h4 className="title">More</h4>
-                  <ul className="navbar-nav">
+                  <ul className="navbar-nav mb-5">
                     <li className="nav-item">
                       <a href="#" className="nav-link">Acknowlegements</a>
                     </li>
@@ -108,15 +108,15 @@ export default function Footer() {
         <Container>
           <Row>
             <Col>
-              <div className="d-flex justify-content-between my-4">
-                <div className="py-2">&copy; 2023 Haniffa Lab.</div>
-                <div className="py-2">
-                  <div className="d-flex justify-content-center justify-content-md-end">
+              <div className="d-flex justify-content-between my-4 align-middle">
+                <div className="align-self-center">&copy; 2023 Haniffa Lab</div>
+                <div className="align-self-center">
+                  <div className="d-flex social justify-content-center justify-content-md-end">
                     <a href="#" className="ms-3">
-                      <FontAwesomeIcon icon={faTwitter} />
+                      <FontAwesomeIcon icon={faTwitter} size="lg" />
                     </a>
                     <a href="#" className="ms-3">
-                      <FontAwesomeIcon icon={faGithub} />
+                      <FontAwesomeIcon icon={faGithub} size="lg" />
                     </a>
                   </div>
                 </div>

@@ -13,6 +13,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "@u-wave/react-vimeo": "^0.9.10",
     "apollo-boost": "^0.4.7",
     "bootstrap": "^5.2.2",
     "date-fns": "^2.29.3",
@@ -30,7 +31,9 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.0",
     "react-table": "^7.8.0",
-    "sass": "^1.55.0"
+    "sass": "^1.55.0",
+    "styled-components": "^5.3.6",
+    "vitessce": "^2.0.3"
   },
   "scripts": {
     "develop": "react-scripts start",

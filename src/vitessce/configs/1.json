@@ -1,0 +1,294 @@
+{
+    "version": "1.0.15",
+    "name": "Human hindlimb, 10X Visium data",
+    "description": "",
+    "initStrategy": "auto",
+    "datasets": [
+        {
+            "uid": "visium",
+            "files": [
+                {
+                    "fileType": "anndata.zarr",
+                    "url": "https://hindlimb.cog.sanger.ac.uk/datasets/Visium/0.0.1/Hindlimb_visium_slide_8_anndata.zarr",
+                    "coordinationValues": {
+                        "obsType": "spot",
+                        "featureType": "gene",
+                        "featureValueType": "expression"
+                    },
+                    "options": {
+                        "obsFeatureMatrix": {
+                            "path": "X"
+                        },
+                        "obsLocations": {
+                            "path": "obsm/spatial"
+                        },
+                        "obsEmbedding": [
+                            {
+                                "path": "obsm/X_umap",
+                                "embeddingType": "UMAP"
+                            },
+                            {
+                                "path": "obsm/X_pca",
+                                "embeddingType": "PCA"
+                            }
+                        ],
+                        "obsSets": [
+                            {
+                                "name": "Celltype",
+                                "path": "obs/celltype"
+                            },
+                            {
+                                "name": "library_id",
+                                "path": "obs/library_id"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "fileType": "obsSegmentations.raster.json",
+                    "coordinationValues": {
+                        "obsType": "spot"
+                    },
+                    "options": {
+                        "renderLayers": [
+                            "Spots"
+                        ],
+                        "schemaVersion": "0.0.2",
+                        "images": [
+                            {
+                                "name": "Spots",
+                                "url": "https://hindlimb.cog.sanger.ac.uk/datasets/Visium/0.0.1/Hindlimb_visium_slide_8_label.zarr",
+                                "type": "zarr",
+                                "metadata": {
+                                    "isBitmask": true,
+                                    "dimensions": [
+                                        {
+                                            "field": "t",
+                                            "type": "quantitative",
+                                            "values": null
+                                        },
+                                        {
+                                            "field": "channel",
+                                            "type": "nominal",
+                                            "values": [
+                                                "Labels"
+                                            ]
+                                        },
+                                        {
+                                            "field": "y",
+                                            "type": "quantitative",
+                                            "values": null
+                                        },
+                                        {
+                                            "field": "x",
+                                            "type": "quantitative",
+                                            "values": null
+                                        }
+                                    ],
+                                    "isPyramid": true,
+                                    "transform": {
+                                        "translate": {
+                                            "y": 0,
+                                            "x": 0
+                                        },
+                                        "scale": 1
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "fileType": "image.raster.json",
+                    "options": {
+                        "renderLayers": [
+                            "Image"
+                        ],
+                        "schemaVersion": "0.0.2",
+                        "images": [
+                            {
+                                "name": "Image",
+                                "url": "https://hindlimb.cog.sanger.ac.uk/datasets/Visium/0.0.1/Hindlimb_visium_slide_8_raw.zarr",
+                                "type": "zarr",
+                                "metadata": {
+                                    "isBitmask": false,
+                                    "dimensions": [
+                                        {
+                                            "field": "t",
+                                            "type": "quantitative",
+                                            "values": null
+                                        },
+                                        {
+                                            "field": "channel",
+                                            "type": "nominal",
+                                            "values": []
+                                        },
+                                        {
+                                            "field": "y",
+                                            "type": "quantitative",
+                                            "values": null
+                                        },
+                                        {
+                                            "field": "x",
+                                            "type": "quantitative",
+                                            "values": null
+                                        }
+                                    ],
+                                    "isPyramid": true,
+                                    "transform": {
+                                        "translate": {
+                                            "y": 0,
+                                            "x": 0
+                                        },
+                                        "scale": 1
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "coordinationSpace": {
+        "obsType": {
+            "A": "spot"
+        },
+        "spatialSegmentationLayer": {
+            "A": {
+                "radius": 65,
+                "stroked": true,
+                "visible": true,
+                "opacity": 1
+            }
+        },
+        "spatialImageLayer": {
+            "A": [
+                {
+                    "type": "raster",
+                    "index": 0,
+                    "visible": true,
+                    "colormap": null,
+                    "opacity": 1,
+                    "domainType": "Min/Max",
+                    "transparentColor": null,
+                    "renderingMode": "Additive",
+                    "use3d": false,
+                    "channels": [
+                        {
+                            "selection": {
+                                "channel": 0,
+                                "t": 0
+                            },
+                            "color": [
+                                255,
+                                0,
+                                0
+                            ],
+                            "visible": true,
+                            "slider": [
+                                0,
+                                255
+                            ]
+                        },
+                        {
+                            "selection": {
+                                "channel": 1,
+                                "t": 0
+                            },
+                            "color": [
+                                0,
+                                255,
+                                0
+                            ],
+                            "visible": true,
+                            "slider": [
+                                0,
+                                255
+                            ]
+                        },
+                        {
+                            "selection": {
+                                "channel": 0,
+                                "t": 0
+                            },
+                            "color": [
+                                0,
+                                0,
+                                255
+                            ],
+                            "visible": true,
+                            "slider": [
+                                0,
+                                255
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "obsColorEncoding": {
+            "A": "cellSetSelection",
+            "B": "geneSelection"
+        },
+        "spatialZoom": {
+            "A": -4.598
+        },
+        "spatialTargetX": {
+            "A": 7608.88
+        },
+        "spatialTargetY": {
+            "A": 13004.69
+        },
+        "featureSelection": {
+            "A": [
+                "COL2A1"
+            ]
+        },
+        "featureValueColormapRange": {
+            "A": [
+                0,
+                0.20
+            ]
+        },
+        "embeddingZoom": {
+            "UMAP": 0,
+            "TSNE": 0.75
+        },
+        "embeddingType": {
+            "UMAP": "UMAP"
+        }
+    },
+    "layout": [
+        {
+            "component": "spatial",
+            "coordinationScopes": {
+                "obsType": "A",
+                "spatialZoom": "A",
+                "spatialTargetX": "A",
+                "spatialTargetY": "A",
+                "obsColorEncoding": "A"
+            },
+            "x": 0,
+            "y": 0,
+            "w": 6,
+            "h": 12
+        },
+        {
+            "component": "spatial",
+            "coordinationScopes": {
+                "obsType": "A",
+                "spatialZoom": "A",
+                "spatialTargetX": "A",
+                "spatialTargetY": "A",
+                "obsColorEncoding": "B",
+                "featureSelection": "A",
+                "featureValueColormapRange": "A"
+            },
+            "x": 6,
+            "y": 0,
+            "w": 6,
+            "h": 12
+        }
+    ]
+}

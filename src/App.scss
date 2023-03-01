@@ -9,6 +9,20 @@ $breadcrumb-padding-x: 10px;
 $breadcrumb-margin-bottom: 0;
 $breadcrumb-bg: #f8f9fa;
 
+
+$h1-font: 'Gilroy', sans-serif;
+$h1-size: 6rem;
+$h1-weight: 900;
+
+$h2-font: 'Poppins', sans-serif;
+$h2-size: 3rem;
+$h2-weight: 600;
+
+$p-font: 'Poppins', sans-serif;
+$p-size: 1rem;
+$p-weight: 400;
+
+
 // Override default bootstrap variables
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,300,700");
 $font-family-sans-serif: Poppins, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
@@ -31,6 +45,14 @@ footer {
 #copyright {
     color: rgba(255, 255, 255, 0.75);
     background-color: rgba(0, 0, 0, 0.9);
+}
+
+#welcome {
+    scroll-margin-top: 170px;
+}
+
+#culture {
+    background-color: #f9f9f9;
 }
 
 .branding {
@@ -87,17 +109,45 @@ h4 {
     font-family: Poppins, sans-serif;
 }
 
-.nav-link {
+#header .nav-link {
     display: block;
-    line-height: 22px;
-    padding: 14px 5px;
+    line-height: 28px;
+    padding: 14px 10px;
     color: #444;
     font-weight: 700;
     font-size: 13px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-family: Poppins, sans-serif;
 }
+
+h2 {
+    margin: 1.5rem 0;
+    font-size: $h2-size;
+    font-weight: $h2-weight;
+    line-height: 1.2;
+    font-family: $h2-font;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+
+h2.heading-block::after {
+    content: '';
+    display: block;
+    margin-top: 30px;
+    width: 40px;
+    border-top: 2px solid #444;
+}
+
+#research-themes .research-area-bg {
+    background: url(assets/images/rse/rse-cover.webp) center center no-repeat;
+    background-size: cover;
+}
+
+#research-themes {
+    background-color: #f9f9f9;
+}
+
+
 
 @keyframes gm-slidein {
     from {
@@ -117,6 +167,12 @@ header {
     position: relative;
     z-index: 5;
 }
+
+
+#header .social {
+    font-size: 24px;
+}
+
 
 header .navbar-sticky {
     position: fixed;

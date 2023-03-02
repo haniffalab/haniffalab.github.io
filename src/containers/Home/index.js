@@ -63,13 +63,13 @@ const Home = () => {
       <section id="culture" className="section-2 highlights image-center">
         <Container>
           <Row className="my-5 py-5 text-center">
-            <Col lg={4} md={12}>
+            <Col lg={4} md={12} className="mt-auto">
               <img src={ImgDiversity} width="300" alt="iphone 2" />
             </Col>
-            <Col lg={4} md={12}>
+            <Col lg={4} md={12} className="mt-auto">
               <img src={ImgTeam} width="300" alt="iphone 2" />
             </Col>
-            <Col lg={4} md={12}>
+            <Col lg={4} md={12} className="mt-auto">
               <img src={ImgInclusion} width="300" alt="iphone 2" />
             </Col>
             <Col lg={4} md={12}>
@@ -120,7 +120,7 @@ const Home = () => {
                 <h3>Walkthrough Videos &amp; Demos</h3>
               </div>
               <Row>
-                <Col lg={{ span: 10, offset: 1 }} md={{ span: 6, offset: 3 }}>
+                <Col lg={{ span: 6, offset: 3 }} md={{ span: 10, offset: 1 }}>
                   <Vimeo
                     video="623468767"
                   />
@@ -131,12 +131,12 @@ const Home = () => {
           </Row>
         </Container>
         <Container fluid className="gx-0">
-          <Row className="gx-0">
-            <Col lg={3} md={12}>
+          <Row className="row-flex gx-0">
+            <Col lg={3} md={12} className="bg-mountbatten-pink text-white text-center">
               <Link to={'/'}>
-                <Card className="bg-dark text-white">
-                  <Card.Body className="text-center">
-                    <Card.Title>Skin in health and disease across lifespan </Card.Title>
+                <Card className="bg-mountbatten-pink text-white">
+                  <Card.Body>
+                    <Card.Title>Skin in health and disease across lifespan</Card.Title>
                     <Card.Text>
                       This is a wider card with supporting text below as a natural lead-in
                       to additional content. This content is a little bit longer.
@@ -145,12 +145,11 @@ const Home = () => {
                 </Card>
               </Link>
             </Col>
-            <Col lg={3} md={12}>
+            <Col lg={3} md={12} className="bg-blue-ncs text-white text-center">
               <Link to={'/'}>
-                <Card className="bg-dark text-white">
-                  <Card.Body className="text-center">
-
-                    <Card.Title>Immunogenomics  </Card.Title>
+                <Card className="bg-blue-ncs text-white">
+                  <Card.Body>
+                    <Card.Title>Immunogenomics</Card.Title>
                     <Card.Text>
                       This is a wider card with supporting text below as a natural lead-in
                       to additional content. This content is a little bit longer.
@@ -159,11 +158,11 @@ const Home = () => {
                 </Card>
               </Link>
             </Col>
-            <Col lg={3} md={12}>
+            <Col lg={3} md={12} className="bg-honolulu-blue text-white text-center">
               <Link to={'/'}>
-                <Card className="bg-dark text-white">
-                  <Card.Body className="text-center">
-                    <Card.Title>Development </Card.Title>
+                <Card className="bg-honolulu-blue text-white">
+                  <Card.Body>
+                    <Card.Title>Development</Card.Title>
                     <Card.Text>
                       This is a wider card with supporting text below as a natural lead-in
                       to additional content. This content is a little bit longer.
@@ -172,11 +171,11 @@ const Home = () => {
                 </Card>
               </Link>
             </Col>
-            <Col lg={3} md={12}>
+            <Col lg={3} md={12} className="bg-rich-black text-white text-center">
               <Link to={'/'}>
-                <Card className="bg-dark text-white">
-                  <Card.Body className="text-center">
-                    <Card.Title>Development </Card.Title>
+                <Card className="bg-rich-black text-white">
+                  <Card.Body>
+                    <Card.Title>Development</Card.Title>
                     <Card.Text>
                       This is a wider card with supporting text below as a natural lead-in
                       to additional content. This content is a little bit longer.

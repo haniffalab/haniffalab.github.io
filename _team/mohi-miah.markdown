@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Mohi Miah"
-category: "team"
+category: "alumni"
 position: "Laboratory Technician"
 thumbnail: "mohi-miah.webp"
 image: "mohi-miah-full.jpg"

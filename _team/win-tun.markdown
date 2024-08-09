@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Win Min Tun"
-category: "team"
+category: "alumni"
 position: "Research Associate"
 thumbnail: "win-tun.webp"
 image: "win-tun.webp"

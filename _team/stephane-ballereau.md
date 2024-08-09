@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Stephane Ballereau"
-category: "team"
+category: "alumni"
 position: "Principal Bioinformatician"
 thumbnail: "stephane-ballereau.webp"
 image: "stephane-ballereau-full.webp"

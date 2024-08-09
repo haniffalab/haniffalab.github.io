@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Paul Norton"
-category: "team"
+category: "alumni"
 position: "Research Associate"
 thumbnail: "paul-norton.webp"
 image: "paul-norton-full.webp"

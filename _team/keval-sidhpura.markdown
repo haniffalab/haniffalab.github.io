@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Keval Sidhpura"
-category: "team"
+category: "alumni"
 position: "Laboratory Technician"
 thumbnail: "keval-sidhpura.webp"
 image: "keval-sidhpura-full.webp"

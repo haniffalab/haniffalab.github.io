@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Issac Emmanuel Goh Kai’en"
-category: "team"
+category: "alumni"
 position: "Staff PhD Candidate in Bioinformatics"
 thumbnail: "issac-goh.webp"
 image: "issac-goh-full.jpg"

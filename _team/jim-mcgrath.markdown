@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Jim McGrath"
-category: "team"
+category: "alumni"
 position: "Research Software Engineer"
 thumbnail: "jim-mcgrath.webp"
 image: "jim-mcgrath-full.png"

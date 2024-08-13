@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Louis Gardner"
-category: "team"
+category: "alumni"
 position: "Academic Clinical Fellow"
 thumbnail: "louis-gardner.webp"
 image: "louis-gardner-full.webp"

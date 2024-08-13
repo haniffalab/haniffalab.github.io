@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Bayanne Olabi"
-category: "team"
+category: "alumni"
 position: "Clinical Research Training Fellow (Wellcome Trust 4Ward North), Dermatology Registrar"
 thumbnail: "bayanne-olabi.webp"
 image: "bayanne-olabi-full.png"

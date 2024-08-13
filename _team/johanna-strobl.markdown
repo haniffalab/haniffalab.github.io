@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Johanna Strobl"
-category: "team"
+category: "alumni"
 position: "Visiting Researcher"
 thumbnail: "johanna-strobl.webp"
 image: "johanna-strobl-full.webp"

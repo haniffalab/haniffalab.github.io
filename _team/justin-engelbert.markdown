@@ -1,7 +1,7 @@
 ---
 layout: team
 name:  "Justin Engelbert"
-category: "team"
+category: "alumni"
 position: "Research Assistant"
 thumbnail: "justin-engelbert.webp"
 image: "justin-engelbert-full.jpg"
